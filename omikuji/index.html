@@ -59,9 +59,9 @@
                     </div>
                     <p class="shake-hint">{{ isShaking ? '抽签中...' : '轻摇手机抽签' }}</p>
 
-                    <!-- 模拟器调试按钮 -->
-                    <button v-if="!isMobile" class="debug-button" @click="simulateShake">
-                        点击模拟摇动
+                    <!-- 点击抽签按钮 -->
+                    <button class="debug-button" @click="simulateShake">
+                        请点击抽签
                     </button>
                 </div>
                 <button class="history-link" @click="goToHistory">查看历史记录</button>
