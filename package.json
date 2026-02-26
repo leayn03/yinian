@@ -1,0 +1,17 @@
+{
+  "name": "yinian-omikuji",
+  "version": "1.0.0",
+  "description": "一念 - 浅草寺御神签 Web 应用",
+  "scripts": {
+    "dev": "cd omikuji && python3 -m http.server 8080",
+    "start": "cd omikuji && python3 -m http.server 8080"
+  },
+  "keywords": [
+    "omikuji",
+    "fortune",
+    "senso-ji",
+    "vue"
+  ],
+  "author": "",
+  "license": "MIT"
+}

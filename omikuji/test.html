@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试 - 签文数据加载</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .status {
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            background: white;
+        }
+        .success { border-left: 4px solid #4caf50; }
+        .error { border-left: 4px solid #f44336; }
+        .info { border-left: 4px solid #2196f3; }
+        pre {
+            background: #f5f5f5;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        button {
+            padding: 10px 20px;
+            background: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔍 签文数据加载测试</h1>
+
+    <div id="output"></div>
+
+    <button onclick="testFetch()">测试加载签文数据</button>
+    <button onclick="testImage()">测试加载图片</button>
+    <button onclick="window.location.href='index.html'">返回主页</button>
+
+    <script>
+        const output = document.getElementById('output');
+
+        async function testFetch() {
+            output.innerHTML = '<div class="status info">⏳ 正在加载签文数据...</div>';
+
+            try {
+                const response = await fetch('data/senso-ji-fortunes-full.json');
+
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+
+                const data = await response.json();
+
+                output.innerHTML = `
+                    <div class="status success">
+                        <h3>✅ 签文数据加载成功！</h3>
+                        <p><strong>签文总数：</strong>${data.fortunes.length} 条</p>
+                        <p><strong>数据版本：</strong>${data.metadata.version}</p>
+                        <p><strong>来源：</strong>${data.metadata.source}</p>
+                        <h4>签级分布：</h4>
+                        <pre>${JSON.stringify(data.metadata.distribution, null, 2)}</pre>
+                        <h4>第一签示例：</h4>
+                        <pre>${JSON.stringify(data.fortunes[0], null, 2)}</pre>
+                    </div>
+                `;
+            } catch (error) {
+                output.innerHTML = `
+                    <div class="status error">
+                        <h3>❌ 加载失败</h3>
+                        <p><strong>错误信息：</strong>${error.message}</p>
+                        <p><strong>当前URL：</strong>${window.location.href}</p>
+                        <p><strong>请求路径：</strong>${window.location.origin}/data/senso-ji-fortunes-full.json</p>
+                        <h4>可能的原因：</h4>
+                        <ul>
+                            <li>服务器未在 omikuji 目录启动</li>
+                            <li>JSON 文件不存在或损坏</li>
+                            <li>跨域问题（CORS）</li>
+                        </ul>
+                    </div>
+                `;
+                console.error('加载错误：', error);
+            }
+        }
+
+        async function testImage() {
+            output.innerHTML = '<div class="status info">⏳ 正在测试图片加载...</div>';
+
+            const testImagePath = 'data/senso-ji-omikuji-main/1_0.jpg';
+
+            const img = new Image();
+            img.onload = () => {
+                output.innerHTML = `
+                    <div class="status success">
+                        <h3>✅ 图片加载成功！</h3>
+                        <p><strong>图片路径：</strong>${testImagePath}</p>
+                        <p><strong>图片尺寸：</strong>${img.width} x ${img.height}</p>
+                        <h4>预览：</h4>
+                        <img src="${testImagePath}" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+                    </div>
+                `;
+            };
+            img.onerror = () => {
+                output.innerHTML = `
+                    <div class="status error">
+                        <h3>❌ 图片加载失败</h3>
+                        <p><strong>图片路径：</strong>${testImagePath}</p>
+                        <p><strong>完整URL：</strong>${window.location.origin}/${testImagePath}</p>
+                        <h4>可能的原因：</h4>
+                        <ul>
+                            <li>图片文件不存在</li>
+                            <li>文件夹路径错误</li>
+                            <li>文件权限问题</li>
+                        </ul>
+                    </div>
+                `;
+            };
+            img.src = testImagePath;
+        }
+
+        // 页面加载时显示基本信息
+        output.innerHTML = `
+            <div class="status info">
+                <h3>📍 当前信息</h3>
+                <p><strong>页面URL：</strong>${window.location.href}</p>
+                <p><strong>Origin：</strong>${window.location.origin}</p>
+                <p><strong>协议：</strong>${window.location.protocol}</p>
+                <p>点击上方按钮开始测试</p>
+            </div>
+        `;
+    </script>
+</body>
+</html>
