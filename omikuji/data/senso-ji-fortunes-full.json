@@ -43,7 +43,7 @@
     },
     {
       "id": 2,
-      "level": "大吉",
+      "level": "小吉",
       "imageFront": "senso-ji-omikuji-main/2_0.jpg",
       "imageBack": "senso-ji-omikuji-main/2_1.jpg",
       "poem": {
@@ -67,7 +67,7 @@
     },
     {
       "id": 3,
-      "level": "大吉",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/3_0.jpg",
       "imageBack": "senso-ji-omikuji-main/3_1.jpg",
       "poem": {
@@ -115,7 +115,7 @@
     },
     {
       "id": 5,
-      "level": "大吉",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/5_0.jpg",
       "imageBack": "senso-ji-omikuji-main/5_1.jpg",
       "poem": {
@@ -211,7 +211,7 @@
     },
     {
       "id": 9,
-      "level": "半吉",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/9_0.jpg",
       "imageBack": "senso-ji-omikuji-main/9_1.jpg",
       "poem": {
@@ -691,7 +691,7 @@
     },
     {
       "id": 29,
-      "level": "大凶",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/29_0.jpg",
       "imageBack": "senso-ji-omikuji-main/29_1.jpg",
       "poem": {
@@ -1147,7 +1147,7 @@
     },
     {
       "id": 48,
-      "level": "半吉",
+      "level": "小吉",
       "imageFront": "senso-ji-omikuji-main/48_0.jpg",
       "imageBack": "senso-ji-omikuji-main/48_1.jpg",
       "poem": {
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 94,
-      "level": "大凶",
+      "level": "半吉",
       "imageFront": "senso-ji-omikuji-main/94_0.jpg",
       "imageBack": "senso-ji-omikuji-main/94_1.jpg",
       "poem": {
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 100,
-      "level": "大吉",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/100_0.jpg",
       "imageBack": "senso-ji-omikuji-main/100_1.jpg",
       "poem": {
