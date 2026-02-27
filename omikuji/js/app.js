@@ -221,27 +221,37 @@ createApp({
                 return;
             }
 
-            // 🍀 只抽取吉祥的签（大吉、吉、半吉、小吉、末吉），屏蔽凶和大凶
-            const luckyFortunes = this.allFortunes.filter(f =>
-                f.level === '大吉' ||
-                f.level === '吉' ||
-                f.level === '半吉' ||
-                f.level === '小吉' ||
-                f.level === '末吉'
-            );
+            // 🎲 构建加权抽签池：凶和末小吉概率减半
+            // 吉祥签（大吉、吉、末吉、小吉、半吉）：权重 2（添加2次）
+            // 凶签（凶、末小吉）：权重 1（添加1次，概率减半）
+            const weightedPool = [];
 
-            if (luckyFortunes.length === 0) {
-                this.showToast('没有可用的吉祥签文', 'error');
+            const unluckyLevels = ['凶', '末小吉'];
+
+            for (const fortune of this.allFortunes) {
+                // 凶签只添加一次（权重1）
+                if (unluckyLevels.includes(fortune.level)) {
+                    weightedPool.push(fortune);
+                }
+                // 吉祥签添加两次（权重2）
+                else {
+                    weightedPool.push(fortune);
+                    weightedPool.push(fortune);
+                }
+            }
+
+            if (weightedPool.length === 0) {
+                this.showToast('没有可用的签文', 'error');
                 return;
             }
 
             // 使用时间戳和随机数混合
             const timestamp = Date.now();
-            const randomIndex = Math.floor(Math.random() * luckyFortunes.length);
+            const randomIndex = Math.floor(Math.random() * weightedPool.length);
             const seed = (timestamp % 1000) + randomIndex;
-            const finalIndex = seed % luckyFortunes.length;
+            const finalIndex = seed % weightedPool.length;
 
-            const fortune = { ...luckyFortunes[finalIndex] };
+            const fortune = { ...weightedPool[finalIndex] };
             fortune.timestamp = new Date().toISOString();
             fortune.formattedTime = this.formatTime(new Date());
 
@@ -257,7 +267,7 @@ createApp({
             // 震动反馈
             this.vibrate('success');
 
-            console.log(`🎊 抽中第 ${fortune.id} 签 - ${fortune.level} (仅吉祥签)`);
+            console.log(`🎊 抽中第 ${fortune.id} 签 - ${fortune.level}`);
 
             // 跳转到签文页
             setTimeout(() => {

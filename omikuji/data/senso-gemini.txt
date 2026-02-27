@@ -1,0 +1,2517 @@
+[
+  {
+    "id": 1,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/1_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/1_1.jpg",
+    "poem": {
+      "title": "第1签",
+      "lines": ["七寶浮圖塔", "高峰頂上安", "眾人皆仰望", "莫作等閒看"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"就像出現了用美麗的寶石做成的佛塔般地，似乎會有非常好的事情 [cite: 5]。",
+        [cite_start]"只是調整事物的看法，用正確的心思會招來更多的好的結果 [cite: 5]。",
+        [cite_start]"因為能改用放眼萬事的立場，可以得到周圍的人們的信賴吧 [cite: 5]。",
+        [cite_start]"合乎正道的你的行為，能被很多人的認同及鼓勵，萬事行為謹慎 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。高峰顶上安，万事皆好 [cite: 5]。",
+      [cite_start]"career": "合乎正道的行為能被認同。願望充分地會實現吧 [cite: 5]。",
+      [cite_start]"love": "嫁娶、交往等全部很好吧 [cite: 5]。",
+      [cite_start]"health": "疾病會治癒吧 [cite: 5]。",
+      [cite_start]"advice": "粗心大意行事的話，就會發生意想之外的災害。萬事行為謹慎 [cite: 5]。",
+      [cite_start]"story": "盼望的人會出現。遺失物變得遲遲地才發現吧 [cite: 5]。"
+    }
+  },
+  {
+    "id": 2,
+    "level": "小吉",
+    "imageFront": "senso-ji-omikuji-main/2_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/2_1.jpg",
+    "poem": {
+      "title": "第2签",
+      "lines": ["月被浮雲翳", "立事自昏迷", "幸乞陰公祐", "何慮不開眉"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"似乎抱著強烈的願望，但是照目前的樣子，似乎無法達成願望 [cite: 5]。",
+        [cite_start]"因為光是想著要怎麼作，持續著沒有決心的情形 [cite: 5]。",
+        [cite_start]"為他人盡全力努力，幸福將會來到，必定可以得到陰德庇佑 [cite: 5]。",
+        [cite_start]"不擔心未來的事也沒有關係，伴隨著會有令人高興的事情發生 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签小吉。持續不斷努力，幸福將至 [cite: 5]。",
+      [cite_start]"career": "願望因為持續不斷努力實現。旅行順利進行吧 [cite: 5]。",
+      [cite_start]"love": "交往暫時不要交往吧。婚事順利進行吧 [cite: 5]。",
+      [cite_start]"health": "疾病雖然拖長，但是之後可以康復吧 [cite: 5]。",
+      [cite_start]"advice": "光是想著要怎麼作是不行的，要有決心 [cite: 5]。",
+      [cite_start]"story": "盼望的人遲遲地會出現。遺失物不能找出來吧 [cite: 5]。"
+    }
+  },
+  {
+    "id": 3,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/3_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/3_1.jpg",
+    "poem": {
+      "title": "第3签",
+      "lines": ["愁惱損忠良", "青宵一炷香", "雖然防小過", "閑慮覺時長"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"層層疊疊嘆氣與苦惱，被回報的事很少吧 [cite: 5]。",
+        [cite_start]"就像向著天燒香祈禱般地，你的願望無法傳達天聽吧 [cite: 5]。",
+        [cite_start]"就算只有一點點善行也好，作了可以逃離災厄吧 [cite: 5]。",
+        [cite_start]"東想西想之間，似乎不知不覺就像過了很長的時間。等待時機的到來吧 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。愁恼损心，愿望难达，需待时机 [cite: 5]。",
+      [cite_start]"career": "願望難實現。旅行因為很壞，放棄吧 [cite: 5]。",
+      [cite_start]"love": "結婚交往暫時不要吧 [cite: 5]。",
+      [cite_start]"health": "疾病雖然拖長，但是會治好吧 [cite: 5]。",
+      [cite_start]"advice": "多作善行以逃離災厄，目前只能等待時機 [cite: 5]。",
+      [cite_start]"story": "盼望的人要花很久的時間。遺失物難以找到 [cite: 5]。"
+    }
+  },
+  {
+    "id": 4,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/4_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/4_1.jpg",
+    "poem": {
+      "title": "第4签",
+      "lines": ["累有興雲志", "君恩祿未封", "若逢侯手印", "好事始總總"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"拼命地要出人頭地，可以看見你的志向 [cite: 5]。",
+        [cite_start]"遺憾地是，你的不成熟不能得到居上位者的認同 [cite: 5]。",
+        [cite_start]"如果好好傳遞自己的心思，為了立刻得到認同是很重要的 [cite: 5]。",
+        [cite_start]"好事也似乎會越來越接踵而起吧 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。志向虽高，需得贵人认同，好事方成 [cite: 5]。",
+      [cite_start]"career": "願望能實現吧。如果這樣的話，終生幸福吧 [cite: 5]。",
+      [cite_start]"love": "婚事、交往萬事都好吧 [cite: 5]。",
+      [cite_start]"health": "疾病變得遲遲地才會治好吧 [cite: 5]。",
+      [cite_start]"advice": "好好傳遞自己的心思，提升成熟度以獲認同 [cite: 5]。",
+      [cite_start]"story": "盼望的人會出現。旅行途中要忍耐各式各樣的困難吧 [cite: 5]。"
+    }
+  },
+  {
+    "id": 5,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/5_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/5_1.jpg",
+    "poem": {
+      "title": "第5签",
+      "lines": ["家道未能昌", "危々保禍殃", "暗雲侵月桂", "佳人一炷香"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"就算對家業試著努力，和努力相比卻難以繁盛起來 [cite: 5]。",
+        [cite_start]"不是人生災禍，只是危險的事比較多而已吧 [cite: 5]。",
+        [cite_start]"和烏雲遮月一樣，一生阻礙比較多吧 [cite: 5]。",
+        [cite_start]"各種想法像香一樣擴散開來，心裡無法平靜吧 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。阻碍颇多，心神不宁 [cite: 5]。",
+      [cite_start]"career": "願望難以實現吧。家業難以繁盛 [cite: 5]。",
+      [cite_start]"love": "婚事、交往萬事兇惡，請行為慎重 [cite: 5]。",
+      [cite_start]"health": "疾病難治好吧 [cite: 5]。",
+      [cite_start]"advice": "因為萬事兇惡，請諸行為慎重行事 [cite: 5]。",
+      [cite_start]"story": "盼望的人不會出現。遺失物難找到吧 [cite: 5]。"
+    }
+  },
+  {
+    "id": 6,
+    "level": "末吉",
+    "imageFront": "senso-ji-omikuji-main/6_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/6_1.jpg",
+    "poem": {
+      "title": "第6签",
+      "lines": ["宅墓鬼凶多", "人事有爻訛", "傷財防損失", "祈福始中和"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"家中恐怕有災禍。行為慎重，抱著深深的信心 [cite: 5]。",
+        [cite_start]"有關係的人的事，過錯或過失很多，事情難以進展吧 [cite: 5]。",
+        [cite_start]"就算破財，也會有所得 [cite: 5]。",
+        [cite_start]"倚靠神佛的力量，自己盡力的話也可能到幸福 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签末吉。虽有损耗与过失，祈福尽力可得幸福 [cite: 5]。",
+      [cite_start]"career": "願望難以實現。事情難以進展 [cite: 5]。",
+      [cite_start]"love": "婚事、交往壞吧 [cite: 5]。",
+      [cite_start]"health": "康復很花時間吧 [cite: 5]。",
+      [cite_start]"advice": "行為慎重，抱著深深的信心，倚靠神佛力量 [cite: 5]。",
+      [cite_start]"story": "盼望的人遲遲地會出現。旅行好吧 [cite: 5]。"
+    }
+  },
+  {
+    "id": 7,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/7_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/7_1.jpg",
+    "poem": {
+      "title": "第7签",
+      "lines": ["登舟待便風", "月色暗朦朧", "欲輾香輪去", "高山千万重"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"像風不吹船無法前進一樣，就算有所行為也難以向前發展吧 [cite: 5]。",
+        [cite_start]"月亮被烏雲籠罩著，前後都無法看見，莽撞行事易招災 [cite: 5]。",
+        [cite_start]"按照別人所傳授的方式應該可以逃離災害，但現狀困難 [cite: 5]。",
+        [cite_start]"就像車子要登險峻高山般的困難，想要用各種方式解決 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。前途朦胧，阻碍重重，宜静不宜动 [cite: 5]。",
+      [cite_start]"career": "願望難以實現。行為難以前進發展 [cite: 5]。",
+      [cite_start]"love": "婚事、交往不好吧 [cite: 5]。",
+      [cite_start]"health": "疾病難以治癒吧 [cite: 5]。",
+      [cite_start]"advice": "現在還是靜靜的過生活吧，莽撞行事不可 [cite: 5]。",
+      [cite_start]"story": "盼望的人不會出現。新居搬家請換時間 [cite: 5]。"
+    }
+  },
+  {
+    "id": 8,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/8_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/8_1.jpg",
+    "poem": {
+      "title": "第8签",
+      "lines": ["勿頭中見尾", "文華須得理", "禾刀自偶然", "当遇非常喜"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"在腦海裡沒有失敗或結束的恐懼，漸漸朝著目標努力吧 [cite: 5]。",
+        [cite_start]"無論是文學或武術都能得到真理，要有充實自己的心態 [cite: 5]。",
+        [cite_start]"就像用刀來割稻般地，可以得到收成，幸福自然就會到來 [cite: 5]。",
+        [cite_start]"如果正心守道的話，可以變得幸福，遇見非常驚喜之事 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。正心守道，收获自然而至 [cite: 5]。",
+      [cite_start]"career": "願望會實現吧。漸漸朝著達成目標努力 [cite: 5]。",
+      [cite_start]"love": "婚事全都是好的吧 [cite: 5]。",
+      [cite_start]"health": "會治好，請注意養生吧 [cite: 5]。",
+      [cite_start]"advice": "充实自己，正心守道。旅行途中請不要粗心大意 [cite: 5]。",
+      [cite_start]"story": "盼望的人會出現。遺失物可以找到 [cite: 5]。"
+    }
+  },
+  {
+    "id": 9,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/9_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/9_1.jpg",
+    "poem": {
+      "title": "第9签",
+      "lines": ["有名須得遇", "三望一朝遷", "貴人来指処", "華果應時鮮"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"按照所想的，夢想可以實現，名聲也可以廣傳人間吧 [cite: 5]。",
+        [cite_start]"就像三個願望可以完全的實現般地，全部能一次實現 [cite: 5]。",
+        [cite_start]"得到身份地位高的人給予各式各樣令人欣喜的指引 [cite: 5]。",
+        [cite_start]"像是四季花開結果一樣，每天努力的成果及幸運會展開 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。名声广传，愿望齐成，贵人指路 [cite: 5]。",
+      [cite_start]"career": "願望會實現吧。三個願望能一次實現 [cite: 5]。",
+      [cite_start]"love": "婚事、交往全都很好吧 [cite: 5]。",
+      [cite_start]"health": "疾病會治好吧 [cite: 5]。",
+      [cite_start]"advice": "每天努力，幸运自然展开 [cite: 5]。",
+      [cite_start]"story": "盼望的人會出現。遺失物會找到吧 [cite: 5]。"
+    }
+  },
+  {
+    "id": 10,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/10_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/10_1.jpg",
+    "poem": {
+      "title": "第10签",
+      "lines": ["舊用多成破", "新更始見財", "改求雲外望", "枯木遭春開"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"過去的不幸或許多煩惱也會消去，好事將發生 [cite: 9]。",
+        [cite_start]"隨著新的願望而來，財富也會增加 [cite: 9]。",
+        [cite_start]"為了在雲上祈求願望，請看著所求的高高的願望吧 [cite: 9]。",
+        [cite_start]"像枯木在春天開花一樣，一定會變得很繁盛吧 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。枯木逢春，去旧迎新，财运广进 [cite: 9]。",
+      [cite_start]"career": "願望會實現。好事將發生，財富增加 [cite: 9]。",
+      [cite_start]"love": "婚事、交往、旅行全部變為好結果 [cite: 9]。",
+      [cite_start]"health": "疾病會治好吧 [cite: 9]。",
+      [cite_start]"advice": "看著所求的高高的願望，期待繁盛的未來 [cite: 9]。",
+      [cite_start]"story": "盼望的人會出現。遺失物立刻會找到 [cite: 9]。"
+    }
+  }
+]
+[
+  {
+    "id": 11,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/11_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/11_1.jpg",
+    "poem": {
+      "title": "第11签",
+      "lines": ["有禄興家業", "文華達帝都", "雲中乗好箭", "兼得貴人扶"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"可得到幸福與收入，家業也漸漸繁盛起來 [cite: 9]。",
+        [cite_start]"才能可以表現出來，可得世人的好評價 [cite: 9]。",
+        [cite_start]"任何事也都可以成功，就像空中放箭也可以有好的收獲般 [cite: 9]。",
+        [cite_start]"這樣的幸福，加上還可以得到居上位者或神佛的幫助 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。家业兴隆，贵人扶助，所求皆成 [cite: 9]。",
+      [cite_start]"career": "才能得以發揮，可得世人好評，家業繁盛 [cite: 9]。",
+      [cite_start]"love": "結婚、交往：全部都能得到好結果吧 [cite: 9]。",
+      [cite_start]"health": "疾病：會治好吧 [cite: 9]。",
+      [cite_start]"advice": "任何事都可以成功，只要保持努力並感恩神佛幫助 [cite: 9]。",
+      [cite_start]"story": "願望：會充分地實現。盼望的人：會出現 [cite: 9]。"
+    }
+  },
+  {
+    "id": 12,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/12_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/12_1.jpg",
+    "poem": {
+      "title": "第12签",
+      "lines": ["楊柳遇春時", "残花発旧枝", "重々霜雪裡", "黄金色更輝"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"像柳樹也逢春，增添綠色般地，希望也會來吧 [cite: 9]。",
+        [cite_start]"像老枝也發芽、開花般地，喜事會到來吧 [cite: 9]。",
+        [cite_start]"過去在重重霜雪中勞苦不斷 [cite: 9]。",
+        [cite_start]"但不忘以前的勞苦，用誠心的心過生活，未來如黃金般閃亮 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。苦尽甘来，如枯木逢春，前程似锦 [cite: 9]。",
+      [cite_start]"career": "希望會來，喜事會到來，過去的勞苦將有回報 [cite: 9]。",
+      [cite_start]"love": "結婚、交往：全都適當吧 [cite: 9]。",
+      [cite_start]"health": "疾病：會變好吧 [cite: 9]。",
+      [cite_start]"advice": "不忘以前的勞苦，用誠實的心過生活 [cite: 9]。",
+      [cite_start]"story": "盼望的人：晚出現。旅行：沒有事故 [cite: 9]。"
+    }
+  },
+  {
+    "id": 13,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/13_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/13_1.jpg",
+    "poem": {
+      "title": "第13签",
+      "lines": ["手把大陽輝", "東君發舊枝", "稼苗方欲秀", "猶更上雲梯"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"持著勇氣做事，充實的生活會受到約束 [cite: 9]。",
+        [cite_start]"運勢如春天花開的老樹枝幹般開展 [cite: 9]。",
+        [cite_start]"你也會像春天生長的稻苗般繁榮昌盛 [cite: 9]。",
+        [cite_start]"因為更加累積努力，就像能登上雲的梯子般成功吧 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。运势开展，勇往直前，必能成功 [cite: 9]。",
+      [cite_start]"career": "會繁榮昌盛，累積努力必會成功 [cite: 9]。",
+      [cite_start]"love": "結婚、交往：全部都好吧 [cite: 9]。",
+      [cite_start]"health": "疾病：會治好吧 [cite: 9]。",
+      [cite_start]"advice": "時機來到時，持著勇氣積極行動 [cite: 9]。",
+      [cite_start]"story": "旅行：在春天和夏天好。遺失物：立刻能找到 [cite: 9]。"
+    }
+  },
+  {
+    "id": 14,
+    "level": "末吉",
+    "imageFront": "senso-ji-omikuji-main/14_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/14_1.jpg",
+    "poem": {
+      "title": "第14签",
+      "lines": ["玉石未分時", "憂心轉更悲", "前途通大道", "花發應殘枝"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"就像還分不清楚寶玉和普通石頭般，沒辦法分辨事物的狀況 [cite: 9]。",
+        [cite_start]"為各式各樣的事情而心痛、嘆息、悲傷 [cite: 9]。",
+        [cite_start]"如果忍耐勞苦，將來自然地看得到未來的去向 [cite: 9]。",
+        [cite_start]"然後像枯枝開花般，願望會實現 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签末吉。目前晦暗不明，需忍耐劳苦，晚景可成 [cite: 9]。",
+      [cite_start]"career": "目前分辨不清狀況，需忍耐，將來前途通大道 [cite: 9]。",
+      [cite_start]"love": "結婚：現在暫時不要，之後的話好。交往：避開吧 [cite: 9]。",
+      [cite_start]"health": "疾病：會拖長，但是不會影響性命 [cite: 9]。",
+      [cite_start]"advice": "現在需忍耐勞苦，等待時機 [cite: 9]。",
+      [cite_start]"story": "願望：很花時間但會實現。遺失物：難出現 [cite: 9]。"
+    }
+  },
+  {
+    "id": 15,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/15_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/15_1.jpg",
+    "poem": {
+      "title": "第15签",
+      "lines": ["年乖數亦孤", "久病未能蘇", "岸危舟未發", "龍臥失明珠"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"生活變得不自由，朋友減少，孤單一人 [cite: 9]。",
+        [cite_start]"長期的疾病康復無望 [cite: 9]。",
+        [cite_start]"想做點什麼卻因為阻礙而不能著手進行 [cite: 9]。",
+        [cite_start]"就像龍失去重要的龍珠般，人也失去希望 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。孤苦无依，阻碍重重，希望渺茫 [cite: 9]。",
+      [cite_start]"career": "想做什麼都有阻礙，沒辦法著手進行 [cite: 9]。",
+      [cite_start]"love": "結婚、婚事：壞。交往：不提 [cite: 9]。",
+      [cite_start]"health": "疾病：危險。長期疾病難康復 [cite: 9]。",
+      [cite_start]"advice": "目前諸事不順，應守本分避開危險 [cite: 9]。",
+      [cite_start]"story": "願望：難以實現。盼望的人：似乎不能出現 [cite: 9]。"
+    }
+  },
+  {
+    "id": 16,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/16_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/16_1.jpg",
+    "poem": {
+      "title": "第16签",
+      "lines": ["破改重成望", "前途喜亦寧", "貴人相助處", "祿馬照前程"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"拋開至今為止的願望，期望別的願望為佳 [cite: 9]。",
+        [cite_start]"要前往的目標有令人欣喜的事，心情安定 [cite: 9]。",
+        [cite_start]"得到居上位者（觀世音菩薩）的幫助，越來越有力量 [cite: 9]。",
+        [cite_start]"前途光明照耀，地位或收入也和想的一樣充實滿足 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。改旧换新，贵人相助，前途无量 [cite: 9]。",
+      [cite_start]"career": "地位或收入會和想的一樣充實滿足 [cite: 9]。",
+      [cite_start]"love": "婚事、交往：全部會變成好結果 [cite: 9]。",
+      [cite_start]"health": "疾病：會康復吧 [cite: 9]。",
+      [cite_start]"advice": "適宜轉換目標，積極尋求貴人幫助 [cite: 9]。",
+      [cite_start]"story": "願望：能被實現。遺失物：會出現 [cite: 9]。"
+    }
+  },
+  {
+    "id": 17,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/17_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/17_1.jpg",
+    "poem": {
+      "title": "第17签",
+      "lines": ["怪異防憂惱", "人宅見分離", "惜華還值雨", "杯酒惹閑非"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"除去煩惱似乎變多了，要防止降落自身的危險 [cite: 9]。",
+        [cite_start]"不好的事情持續著，甚至可能發生離開家的事 [cite: 9]。",
+        [cite_start]"就像捨不得花凋謝卻被雨淋凋萎般，不好的事持續著 [cite: 9]。",
+        [cite_start]"無法按照所想的，沈溺於貪杯會帶來壞想法 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。忧恼重重，骨肉分离，谨防是非 [cite: 9]。",
+      [cite_start]"career": "無法按照所想的進行，容易惹來閒言是非 [cite: 9]。",
+      [cite_start]"love": "婚事、交往：全部不好 [cite: 9]。",
+      [cite_start]"health": "康復要長時間 [cite: 9]。",
+      [cite_start]"advice": "應改掉壞習慣，謹防沈溺杯酒，凡事自重 [cite: 9]。",
+      [cite_start]"story": "願望：難實現。遺失物：不會出現 [cite: 9]。"
+    }
+  },
+  {
+    "id": 18,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/18_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/18_1.jpg",
+    "poem": {
+      "title": "第18签",
+      "lines": ["離暗出明時", "麻衣變綠衣", "舊憂終是退", "遇祿應交輝"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"就像烏雲的天空漸漸晴朗，今後希望能被實現 [cite: 9]。",
+        [cite_start]"就像脫掉舊衣換上漂亮的衣服，用全新心情行善 [cite: 9]。",
+        [cite_start]"長時間悲傷的事情也漸漸地消散 [cite: 9]。",
+        [cite_start]"福德自然增加，人生充滿光輝 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。云开见日，去旧迎新，福德自然增 [cite: 9]。",
+      [cite_start]"career": "希望漸漸能被實現，福德增加 [cite: 9]。",
+      [cite_start]"love": "結婚、交往：全部變為好結果 [cite: 9]。",
+      [cite_start]"health": "疾病：會治好吧 [cite: 9]。",
+      [cite_start]"advice": "每天行善，以全新的心情迎接轉機 [cite: 9]。",
+      [cite_start]"story": "盼望的人：會出現。旅行：很好 [cite: 9]。"
+    }
+  },
+  {
+    "id": 19,
+    "level": "末小吉",
+    "imageFront": "senso-ji-omikuji-main/19_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/19_1.jpg",
+    "poem": {
+      "title": "第19签",
+      "lines": ["家道生荆棘", "兒孫防虎威", "香前祈福厚", "方得免分離"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"家裡的生意有阻礙，事情不按所想的進行 [cite: 9]。",
+        [cite_start]"如果兒孫常聽長輩的話，就會沒事 [cite: 9]。",
+        [cite_start]"抱持強烈信心與真誠的心向神佛祈福 [cite: 9]。",
+        [cite_start]"因為得到福德，原本別離的命運會結束 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签末小吉。家道阻碍，宜虔诚祈祷，修身齐家 [cite: 9]。",
+      [cite_start]"career": "生意有阻礙，需多聽長輩或上位者的建議 [cite: 9]。",
+      [cite_start]"love": "結婚：不會到達特別好的結果。交往：暫時不要 [cite: 9]。",
+      [cite_start]"health": "雖然長期得病，但是不會危及性命 [cite: 9]。",
+      [cite_start]"advice": "需家門和睦，並厚植福德以化解災厄 [cite: 9]。",
+      [cite_start]"story": "願望：能實現一半。遺失物：大概找不回來 [cite: 9]。"
+    }
+  },
+  {
+    "id": 20,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/20_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/20_1.jpg",
+    "poem": {
+      "title": "第20签",
+      "lines": ["月出漸分明", "家財每每興", "何言先有滯", "更變立功名"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"月亮出來漸漸明朗，希望也能被實現 [cite: 9]。",
+        [cite_start]"家財漸漸累積，家中的生意也會繁盛 [cite: 9]。",
+        [cite_start]"雖然之前事情不能暢快運作，但最後會向好的方向進行 [cite: 9]。",
+        [cite_start]"更進一步能得到世間好評與利益 [cite: 9]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。渐入佳境，财源广进，必立功名 [cite: 9, 14]。",
+      [cite_start]"career": "最後會向好的方向進行，立功名、得好評 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：全部都得到好結果 [cite: 14]。",
+      [cite_start]"health": "疾病：會治好 [cite: 14]。",
+      [cite_start]"advice": "不要在意之前的停滯，勇敢迎接變革 [cite: 14]。",
+      [cite_start]"story": "願望：能被實現。遺失物：會出現 [cite: 14]。"
+    }
+  }
+]
+[
+  {
+    "id": 21,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/21_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/21_1.jpg",
+    "poem": {
+      "title": "第21签",
+      "lines": ["洗出經年否", "光華得再清", "所求終吉利", "重日照前程"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"至今為止的壞事已被洗去，變成輕鬆狀況 [cite: 14]。",
+        [cite_start]"好事再度發生，帶來更好的結果 [cite: 14]。",
+        [cite_start]"願望會得到好結果 [cite: 14]。",
+        [cite_start]"前途增光輝，狀況也變好 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。洗尽铅华，再现光芒，所求吉利 [cite: 14]。",
+      [cite_start]"career": "好事再度發生，前途充滿光輝 [cite: 14]。",
+      [cite_start]"love": "結婚：會得到好結果。交往：全部好 [cite: 14]。",
+      [cite_start]"health": "雖然會恢復，但切忌粗心大意 [cite: 14]。",
+      [cite_start]"advice": "即便運勢轉好，仍不可掉以輕心 [cite: 14]。",
+      [cite_start]"story": "願望：能被實現。遺失物：會出現 [cite: 14]。"
+    }
+  },
+  {
+    "id": 22,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/22_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/22_1.jpg",
+    "poem": {
+      "title": "第22签",
+      "lines": ["漸漸濃雲散", "看看月再明", "逢春華菓秀", "雨過竹重青"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"濃雲散去，問題也隨之解決 [cite: 14]。",
+        [cite_start]"月亮再放光明，心情也變輕鬆 [cite: 14]。",
+        [cite_start]"像草木逢春開花，過著充實幸福的生活 [cite: 14]。",
+        [cite_start]"如果人也連連遇好事，越來越能得到好結果 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。云开月明，生机盎然，后福无穷 [cite: 14]。",
+      [cite_start]"career": "問題解決，好事發生，生活充實 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：全都好 [cite: 14]。",
+      [cite_start]"health": "會治好，耐心等待康復吧 [cite: 14]。",
+      [cite_start]"advice": "耐心等待，美好的結果終會到來 [cite: 14]。",
+      [cite_start]"story": "願望：雖然能被實現，但是變得比較晚 [cite: 14]。"
+    }
+  },
+  {
+    "id": 23,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/23_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/23_1.jpg",
+    "poem": {
+      "title": "第23签",
+      "lines": ["红雲隨步起", "一箭中青霄", "鹿行千里遠", "爭知去路遙"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"已經能看到好的徵兆，將來會遇到好事 [cite: 14]。",
+        [cite_start]"宛如向青空射箭般，什麼願望也沒問題 [cite: 14]。",
+        [cite_start]"鹿能行千里遠 [cite: 14]。",
+        [cite_start]"但是不要驕傲自大，要預想過全部狀況再行動 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。兆头极佳，志在千里，戒骄戒躁 [cite: 14]。",
+      [cite_start]"career": "能遇見好事，但若驕傲會看不到目標 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：好 [cite: 14]。",
+      [cite_start]"health": "難以康復 [cite: 14]。",
+      [cite_start]"advice": "小心期望過高，誠實是非常重要的 [cite: 14]。",
+      [cite_start]"story": "願望：雖然會實現，但是要考慮能力 [cite: 14]。"
+    }
+  },
+  {
+    "id": 24,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/24_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/24_1.jpg",
+    "poem": {
+      "title": "第24签",
+      "lines": ["三女莫相逢", "盟言說未通", "門裡心肝掛", "縞素子重重"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"不要做身為人不可以犯的錯誤行為 [cite: 14]。",
+        [cite_start]"光只是口頭約束，沒有實行就無法心意相通 [cite: 14]。",
+        [cite_start]"煩惱、苦悶也是不行的，應抱持信仰心 [cite: 14]。",
+        [cite_start]"否則不吉利的事就會發生 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。口舌是非，心有千结，不宜妄动 [cite: 14]。",
+      [cite_start]"career": "不合道理的欲望會招致失敗 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：變得不好的結果 [cite: 14]。",
+      [cite_start]"health": "雖然拖很長，但會治好 [cite: 14]。",
+      [cite_start]"advice": "好好分辨黑白是非，切莫失信於人 [cite: 14]。",
+      [cite_start]"story": "願望：不會實現。盼望的人：不能出現 [cite: 14]。"
+    }
+  },
+  {
+    "id": 25,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/25_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/25_1.jpg",
+    "poem": {
+      "title": "第25签",
+      "lines": ["枯木逢春生", "前途必利亨", "亦得佳人箭", "乘車祿自行"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"像草木逢春發芽，隨著時間繁榮茂盛 [cite: 14]。",
+        [cite_start]"去路必有好事發生，能幸福 [cite: 14]。",
+        [cite_start]"能邂逅很棒的人 [cite: 14]。",
+        [cite_start]"變得能得到崇高地位、財產 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。枯木逢春，前途利亨，贵人指引 [cite: 14]。",
+      [cite_start]"career": "能得到崇高地位與財產 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：全部都變成好結果 [cite: 14]。",
+      [cite_start]"health": "會治好 [cite: 14]。",
+      [cite_start]"advice": "把握時機，迎接繁榮的到來 [cite: 14]。",
+      [cite_start]"story": "願望：會實現。遺失物：會出現 [cite: 14]。"
+    }
+  },
+  {
+    "id": 26,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/26_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/26_1.jpg",
+    "poem": {
+      "title": "第26签",
+      "lines": ["將軍有異聲", "進兵萬里程", "爭知臨敵處", "道勝却虛名"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"指導力得到部下的信賴，大家聽你指揮 [cite: 14]。",
+        [cite_start]"即使多麼困難的工作都能得到身邊人的幫助 [cite: 14]。",
+        [cite_start]"但是也要知道不管如何努力也可能徒勞無功 [cite: 14]。",
+        [cite_start]"就算是想達到目標，可能會變成虛名 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。名声远播，带兵有方，但防空忙一场 [cite: 14]。",
+      [cite_start]"career": "具備領導力，能得部下幫助，但須防無效努力 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：會變成好結果 [cite: 14]。",
+      [cite_start]"health": "會治好 [cite: 14]。",
+      [cite_start]"advice": "雖然能得到信賴，但目標需切實，避免徒勞 [cite: 14]。",
+      [cite_start]"story": "願望：會實現。旅行：好 [cite: 14]。"
+    }
+  },
+  {
+    "id": 27,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/27_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/27_1.jpg",
+    "poem": {
+      "title": "第27签",
+      "lines": ["望祿應重山", "花紅喜悅顏", "舉頭看皎月", "漸出黑雲間"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"克服重重辛勞後，能得到上天給予的幸福 [cite: 14]。",
+        [cite_start]"美麗花朵綻放，喜悅充滿臉上 [cite: 14]。",
+        [cite_start]"能夠發揮能力的時期到了 [cite: 14]。",
+        [cite_start]"痛苦與煩惱一天天過去，心情沈靜 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。历经万难，云散月明，喜笑颜开 [cite: 14]。",
+      [cite_start]"career": "能夠發揮能力的時期，克服困難後得幸運 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：全部都變成好結果 [cite: 14]。",
+      [cite_start]"health": "會治好，但切忌粗心大意 [cite: 14]。",
+      [cite_start]"advice": "沈浸在喜悅時，切忌粗心大意 [cite: 14]。",
+      [cite_start]"story": "願望：會實現。遺失物：會出現 [cite: 14]。"
+    }
+  },
+  {
+    "id": 28,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/28_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/28_1.jpg",
+    "poem": {
+      "title": "第28签",
+      "lines": ["意速無船渡", "波深必誤身", "切須回舊路", "方可免災殃"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"心裡很著急但事情沒有改變 [cite: 14]。",
+        [cite_start]"勉強渡河會誤了自身，預想困難重重 [cite: 14]。",
+        [cite_start]"不如回到舊路（故鄉）靜靜生活比較好 [cite: 14]。",
+        [cite_start]"這樣才能免除災害，變得安泰 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。心急无船，强渡招祸，宜守旧路 [cite: 14]。",
+      [cite_start]"career": "不要在異鄉強求出人頭地，宜守本分 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：壞 [cite: 14]。",
+      [cite_start]"health": "如果長期養生的話會治好 [cite: 14]。",
+      [cite_start]"advice": "不可焦躁勉強，退一步海闊天空 [cite: 14]。",
+      [cite_start]"story": "願望：難以實現。遺失物：難出現 [cite: 14]。"
+    }
+  },
+  {
+    "id": 29,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/29_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/29_1.jpg",
+    "poem": {
+      "title": "第29签",
+      "lines": ["憂 漸消融", "求名得再通", "寶財臨祿位", "當遇主人公"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"悲傷或擔心的事終於消失了 [cite: 14]。",
+        [cite_start]"名聲可以再次通達 [cite: 14]。",
+        [cite_start]"收入或地位如希望一樣實現 [cite: 14]。",
+        [cite_start]"能遇到好的長官（主人），邁向成功 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。忧虑消融，功成名就，必遇伯乐 [cite: 14]。",
+      [cite_start]"career": "能遇到好的長官，邁向成功 [cite: 14]。",
+      [cite_start]"love": "結婚、交往：全都好 [cite: 14]。",
+      [cite_start]"health": "會治好 [cite: 14]。",
+      [cite_start]"advice": "把握遇見“主人公”的機會，發揮長才 [cite: 14]。",
+      [cite_start]"story": "願望：能被實現。遺失物：會出現 [cite: 14]。"
+    }
+  },
+  {
+    "id": 30,
+    "level": "半吉",
+    "imageFront": "senso-ji-omikuji-main/30_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/30_1.jpg",
+    "poem": {
+      "title": "第30签",
+      "lines": ["仙鶴立高枝", "防他暗箭虧", "井 剛刀利", "戶內更防危"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"想停在高處但願望阻礙多 [cite: 14, 19]。",
+        [cite_start]"需防範不知從哪飛來的暗箭（障礙）[cite: 19]。",
+        [cite_start]"身處之處危險重重，需多加防備 [cite: 19]。",
+        [cite_start]"不單外面，家裡的危機也要照顧 [cite: 19]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签半吉。身处高位防暗箭，内忧外患需谨防 [cite: 19]。",
+      [cite_start]"career": "強烈的願望阻礙很多，需防人陷害 [cite: 19]。",
+      [cite_start]"love": "結婚、交往：暫時不要吧 [cite: 19]。",
+      [cite_start]"health": "危險 [cite: 19]。",
+      [cite_start]"advice": "內外皆需防範，得到神佛加持可轉安 [cite: 19]。",
+      [cite_start]"story": "願望：難實現。盼望的人：不會出現 [cite: 19]。"
+    }
+  }
+]
+[
+  {
+    "id": 31,
+    "level": "末吉",
+    "imageFront": "senso-ji-omikuji-main/31_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/31_1.jpg",
+    "poem": {
+      "title": "第31签",
+      "lines": ["鯤鯨未變時", "且守碧潭溪", "風雲興巨浪", "一息過天涯"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"鲲鲸是大鱼，虽抱有很大希望但尚未到变化实现之时 [cite: 14]。",
+        [cite_start]"现在应在深潭中保守行动，等待时机到来 [cite: 14]。",
+        [cite_start]"一旦时来运转，必将掀起巨浪，向天飞去 [cite: 14]。",
+        [cite_start]"幸到之时，拼命努力，必能一口气飞向成功的道路，名声远播 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签末吉。潜龙在渊，蓄势待发 [cite: 14]。",
+      [cite_start]"career": "虽能被实现，但要考虑时机 [cite: 14]。",
+      [cite_start]"love": "结婚、交往：好吧 [cite: 14]。",
+      [cite_start]"health": "疾病：拖很久吧 [cite: 14]。",
+      [cite_start]"advice": "现在天天行动都要保守，等待幸运到来 [cite: 14]。",
+      [cite_start]"story": "盼望的人：变得迟迟地才会出现 [cite: 14]。"
+    }
+  },
+  {
+    "id": 32,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/32_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/32_1.jpg",
+    "poem": {
+      "title": "第32签",
+      "lines": ["似玉藏深石", "休將故眼看", "一朝良匠別", "方見寶光寒"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"就像宝石藏在石头下，不努力施展才能则一无所获 [cite: 14]。",
+        [cite_start]"若只看眼前而不振作，才能会被埋没 [cite: 14]。",
+        [cite_start]"持续顺应天道努力，终能发现良师益友 [cite: 14]。",
+        [cite_start]"届时成果如磨光的宝石般出现，能为社会尽心力 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。怀才待教，终将闪耀 [cite: 14]。",
+      [cite_start]"career": "持续努力，必能遇到良匠指点并获得成功 [cite: 14]。",
+      [cite_start]"love": "结婚、交往：连成好结果 [cite: 14]。",
+      [cite_start]"health": "虽然会拖长，但不会失去生命 [cite: 14]。",
+      [cite_start]"advice": "休将故眼看，要通过持续努力让才能显现 [cite: 14]。",
+      [cite_start]"story": "愿望：会实现 [cite: 14][cite_start]。遗失物：会出现 [cite: 14]。"
+    }
+  },
+  {
+    "id": 33,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/33_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/33_1.jpg",
+    "poem": {
+      "title": "第33签",
+      "lines": ["枯木逢春艷", "芳菲再發林", "雲間方見月", "前遇貴人欽"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"枯木在春天开花，人生严冬中的辛劳终得回报 [cite: 14]。",
+        [cite_start]"花草再次盛开，香气充满林间，是时来运转之机 [cite: 14]。",
+        [cite_start]"如云散见月，在困难痛苦中幸运终会到来 [cite: 14]。",
+        [cite_start]"得到贵人（神佛、前辈）引导，喜事将增加 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。枯木逢春，云开月明 [cite: 14]。",
+      [cite_start]"career": "再次时来运转，事业能像林间芳菲般繁茂 [cite: 14]。",
+      [cite_start]"love": "全都好吧 [cite: 14]。",
+      [cite_start]"health": "会治好吧 [cite: 14]。",
+      [cite_start]"advice": "即便曾身处辛劳，如今应把握贵人相助的机会 [cite: 14]。",
+      [cite_start]"story": "愿望：能被实现 [cite: 14][cite_start]。盼望的人：会出现 [cite: 14]。"
+    }
+  },
+  {
+    "id": 34,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/34_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/34_1.jpg",
+    "poem": {
+      "title": "第34签",
+      "lines": ["臘木春將至", "芳菲喜再新", "鯤鯨興巨浪", "舉鉤路爲真"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"冬枯之树春天将近，人生的苦难也即将结束 [cite: 14]。",
+        [cite_start]"春天草木发新芽，能充分发挥才能 [cite: 14]。",
+        [cite_start]"大鱼变大鸟，掀起大波浪，展现调度事情的气势 [cite: 14]。",
+        [cite_start]"根据穷究真正的道路，成功的时候必会到来 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。苦尽甘来，志向达成 [cite: 14]。",
+      [cite_start]"career": "大鱼变大鸟，运势极旺，成功在即 [cite: 14]。",
+      [cite_start]"love": "全都连成好结果吧 [cite: 14]。",
+      [cite_start]"health": "会治好吧 [cite: 14]。",
+      [cite_start]"advice": "坚持正确的道路，好运全盛期将至 [cite: 14]。",
+      [cite_start]"story": "遗失物：迟迟才会出现 [cite: 14][cite_start]。搬家：好吧 [cite: 14]。"
+    }
+  },
+  {
+    "id": 35,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/35_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/35_1.jpg",
+    "poem": {
+      "title": "第35签",
+      "lines": ["射鹿須乘箭", "故 籍引路歸", "遇道同仙", "光華映晚暉"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"瞄准即能中鹿，个人行为直接导向成功 [cite: 14]。",
+        [cite_start]"得到上位者的援助与指引，走上正确的道路 [cite: 14]。",
+        [cite_start]"遵从有智慧者的教导，能得职场出人头地之喜 [cite: 14]。",
+        [cite_start]"周围评价变高，声望如夕阳般闪耀 [cite: 14]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。目标准确，贵人指路 [cite: 14]。",
+      [cite_start]"career": "能得良好上位者援助，评价变高 [cite: 14]。",
+      [cite_start]"love": "好吧 [cite: 14]。",
+      [cite_start]"health": "会治好吧 [cite: 14]。",
+      [cite_start]"advice": "虚心听取智慧之言，成功之路自然畅通 [cite: 14]。",
+      [cite_start]"story": "愿望：能被实现 [cite: 14][cite_start]。盼望的人：变迟才会出现 [cite: 14]。"
+    }
+  },
+  {
+    "id": 36,
+    "level": "末吉",
+    "imageFront": "senso-ji-omikuji-main/36_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/36_1.jpg",
+    "poem": {
+      "title": "第36签",
+      "lines": ["先損後有益", "如月之剝蝕", "玉兔待重生", "光華當滿室"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"即便开始有损失，后来定能得利，喜事将近 [cite: 19]。",
+        [cite_start]"运势如月之食，虽希望变薄弱但会再现圆满 [cite: 19]。",
+        [cite_start]"灾难随时间过去，希望终能实现 [cite: 19]。",
+        [cite_start]"月光（希望）照进家中，全家充满喜事 [cite: 19]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签末吉。先苦后甜，转忧为喜 [cite: 19]。",
+      [cite_start]"career": "起初不顺，但后来会有利益，不必因暂时的亏损叹息 [cite: 19]。",
+      [cite_start]"love": "不好吧 [cite: 19]。",
+      [cite_start]"health": "虽然拖长，但可以治愈吧 [cite: 19]。",
+      [cite_start]"advice": "需等待“重生”之时，期间应相互比较审慎行事 [cite: 19]。",
+      [cite_start]"story": "愿望：期限内会实现 [cite: 19][cite_start]。遗失物：难出现 [cite: 19]。"
+    }
+  },
+  {
+    "id": 37,
+    "level": "半吉",
+    "imageFront": "senso-ji-omikuji-main/37_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/37_1.jpg",
+    "poem": {
+      "title": "第37签",
+      "lines": ["阴 未能通", "求名亦未逢", "幸然須有變", "一箭中雙鴻"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"云层厚重不分方向，心中迷惘，愿望未达天听 [cite: 19]。",
+        [cite_start]"祈求名声虽无果，但变机已在其中 [cite: 19]。",
+        [cite_start]"幸而运势将产生变化 [cite: 19]。",
+        [cite_start]"如一箭双雕般，好事接踵而来 [cite: 19]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签半吉。先忧后乐，一箭双雕 [cite: 19]。",
+      [cite_start]"career": "目前机会未到，但转机将至，事业终有成 [cite: 19]。",
+      [cite_start]"love": "到后来变得好吧 [cite: 19]。",
+      [cite_start]"health": "变得迟迟地才好转吧 [cite: 19]。",
+      [cite_start]"advice": "心中痛苦终会离去，应静待变化的到来 [cite: 19]。",
+      [cite_start]"story": "遗失物：变得迟迟地才出现 [cite: 19][cite_start]。旅行：好吧 [cite: 19]。"
+    }
+  },
+  {
+    "id": 38,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/38_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/38_1.jpg",
+    "poem": {
+      "title": "第38签",
+      "lines": ["月照天書靜", "雲生霧彩霞", "久想離庭客", "無事惹咨嗟"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"原本心如皓月般澄清无碍 [cite: 19]。",
+        [cite_start]"但生云雾彩霞，心中再度产生迷惘 [cite: 19]。",
+        [cite_start]"与亲友分别，沈浸在悲伤的思绪中 [cite: 19]。",
+        [cite_start]"本无大事，却庸人自扰引来悲叹 [cite: 19]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。心存迷惘，自寻烦恼 [cite: 19]。",
+      [cite_start]"career": "事业虽稳，但因心思浮躁易引来无谓的叹息 [cite: 19]。",
+      [cite_start]"love": "比较看看吧 [cite: 19]。",
+      [cite_start]"health": "会拖长吧 [cite: 19]。",
+      [cite_start]"advice": "应改换心情，不要为无事而悲叹 [cite: 19]。",
+      [cite_start]"story": "愿望：难实现 [cite: 19][cite_start]。盼望的人：不会出现 [cite: 19]。"
+    }
+  },
+  {
+    "id": 39,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/39_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/39_1.jpg",
+    "poem": {
+      "title": "第39签",
+      "lines": ["望用方心腹", "家鄉被火災", "憂危三五度", "由損斷頭財"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"愿望仅存于心中，尚未付诸行动 [cite: 19]。",
+        [cite_start]"灾难如家宅失火，危险接踵而至 [cite: 19]。",
+        [cite_start]"悲伤与危险多次持续发生 [cite: 19]。",
+        [cite_start]"有失去生命或重要财物的可能性 [cite: 19]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。祸起萧墙，内忧外患 [cite: 19]。",
+      [cite_start]"career": "处于危险之中，会有重大的损财之灾 [cite: 19]。",
+      [cite_start]"love": "招致坏结果吧 [cite: 19]。",
+      [cite_start]"health": "又坏又危险吧 [cite: 19]。",
+      [cite_start]"advice": "小心谨慎，避免任何冒险行动 [cite: 19]。",
+      [cite_start]"story": "盼望的人：不会出现 [cite: 19][cite_start]。搬家：避开比较好吧 [cite: 19]。"
+    }
+  },
+  {
+    "id": 40,
+    "level": "小吉",
+    "imageFront": "senso-ji-omikuji-main/40_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/40_1.jpg",
+    "poem": {
+      "title": "第40签",
+      "lines": ["中正方成道", "姦邪恐惹愆", "壺中盛妙藥", "非久去煩煎"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"坚持中正之道、正确行事，可消除灾难 [cite: 19, 25]。",
+        [cite_start]"若有邪念必会被引入坏的方向 [cite: 25]。",
+        [cite_start]"心中应常驻妙药般的真心，珍惜自己 [cite: 25]。",
+        [cite_start]"如此烦恼终会离去，灾难消散 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签小吉。持正守中，药到病除 [cite: 19, 25]。",
+      [cite_start]"career": "事业需走善道，坚持真心方可消除烦恼 [cite: 25]。",
+      [cite_start]"love": "不好也不坏吧 [cite: 25]。",
+      [cite_start]"health": "虽然拖长但会治好吧 [cite: 25]。",
+      [cite_start]"advice": "珍惜真心，勿走歪路 [cite: 25]。",
+      [cite_start]"story": "愿望：难以立刻地实现 [cite: 25][cite_start]。遗失物：会出现 [cite: 25]。"
+    }
+  }
+][
+  {
+    "id": 41,
+    "level": "末吉",
+    "imageFront": "senso-ji-omikuji-main/41_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/41_1.jpg",
+    "poem": {
+      "title": "第41签",
+      "lines": ["有物不周旋", "須防損牛邊", "家鄉煙火裡", "祈福始安然"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"即便有很多东西也难以到手，愿望丰富但难实现 [cite: 25]。",
+        [cite_start]"成功与损失各占一半，不要坚持小事，考虑中途的成功 [cite: 25]。",
+        [cite_start]"有发生火灾的危险，需充分注意 [cite: 25]。",
+        [cite_start]"坚定信念相信神佛，最终会变得安泰 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签末吉。财物虚浮，谨防火盗 [cite: 25]。",
+      [cite_start]"career": "半成半败，需关注核心利益，防范突发损失 [cite: 25]。",
+      [cite_start]"love": "会产生不好的结果吧 [cite: 25]。",
+      [cite_start]"health": "会拖长吧 [cite: 25]。",
+      [cite_start]"advice": "坚定信仰，不拘小节，注意用火安全 [cite: 25]。",
+      [cite_start]"story": "愿望：难以实现 [cite: 25][cite_start]。盼望的人：变得迟迟地才出现 [cite: 25]。"
+    }
+  },
+  {
+    "id": 42,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/42_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/42_1.jpg",
+    "poem": {
+      "title": "第42签",
+      "lines": ["桂華春將到", "雲天好進程", "貴人相遇處", "暗月再分明"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"运势展开之时已到，如桂花飘香 [cite: 25]。",
+        [cite_start]"有获得崇高地位与荣誉的机会 [cite: 25]。",
+        [cite_start]"得到观世音菩萨或有力人士的引导 [cite: 25]。",
+        [cite_start]"如阴天月亮放晴，好事会越来越多 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。步步高升，贵人扶助 [cite: 25]。",
+      [cite_start]"career": "正处于运势上升期，有大好前程 [cite: 25]。",
+      [cite_start]"love": "全都会变成好结果吧 [cite: 25]。",
+      [cite_start]"health": "会治愈吧 [cite: 25]。",
+      [cite_start]"advice": "顺应贵人指引，勇敢追求更高目标 [cite: 25]。",
+      [cite_start]"story": "遗失物：会出现 [cite: 25][cite_start]。愿望：会实现 [cite: 25]。"
+    }
+  },
+  {
+    "id": 43,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/43_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/43_1.jpg",
+    "poem": {
+      "title": "第43签",
+      "lines": ["月桂將相滿", "追鹿映山溪", "貴人乘遠箭", "好事始相宜"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"好运全盛期接近，月缺终将变圆 [cite: 25]。",
+        [cite_start]"暗示将来能得到崇高的地位和收入（鹿即禄） [cite: 25]。",
+        [cite_start]"受人尊敬的人从远方协助，模仿其善行可获利 [cite: 25]。",
+        [cite_start]"名声远扬，开始变得幸福，但切忌骄傲 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。圆满在即，福禄双收 [cite: 25]。",
+      [cite_start]"career": "将来会有理想的地位和收入，有名声远扬之兆 [cite: 25]。",
+      [cite_start]"love": "变成好结果吧 [cite: 25]。",
+      [cite_start]"health": "虽然拖长但是会治好吧 [cite: 25]。",
+      [cite_start]"advice": "模仿善行，切禁高傲自满 [cite: 25]。",
+      [cite_start]"story": "愿望：会实现 [cite: 25][cite_start]。盼望的人：变得迟迟地才出现 [cite: 25]。"
+    }
+  },
+  {
+    "id": 44,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/44_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/44_1.jpg",
+    "poem": {
+      "title": "第44签",
+      "lines": ["盤中黑白子", "一著要先機", "天龍降甘澤", "喜出舊根基"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"人生吉凶如弈棋，胜负尚未决定 [cite: 25]。",
+        [cite_start]"取得先机比什么都重要，应区别善恶走向善道 [cite: 25]。",
+        [cite_start]"神佛会降下甘露（恩惠）予以援助 [cite: 25]。",
+        [cite_start]"洗去过去罪恶，本来能力得以发挥，生出欢喜 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。抢占先机，神龙降雨 [cite: 25]。",
+      [cite_start]"career": "需在竞争中占据主动，发挥本来实力 [cite: 25]。",
+      [cite_start]"love": "全都好吧 [cite: 25]。",
+      [cite_start]"health": "会治愈吧 [cite: 25]。",
+      [cite_start]"advice": "区分善恶，笔直地朝向善道前进 [cite: 25]。",
+      [cite_start]"story": "愿望：会实现 [cite: 25][cite_start]。遗失物：会出现 [cite: 25]。"
+    }
+  },
+  {
+    "id": 45,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/45_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/45_1.jpg",
+    "poem": {
+      "title": "第45签",
+      "lines": ["有意興高顯", "祿馬引前程", "得遇雲中箭", "芝蘭滿路生"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"得到他人信赖，名声显赫，财源广进 [cite: 25]。",
+        [cite_start]"只要保持善心，幸运将成为人生的向导 [cite: 25]。",
+        [cite_start]"得到神佛难得的加护，必遇幸运 [cite: 25]。",
+        [cite_start]"如芝兰般被善心人包围，名满天下 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。芝兰满路，名利双全 [cite: 25]。",
+      [cite_start]"career": "事业受到信赖，有极佳的前程 [cite: 25]。",
+      [cite_start]"love": "全都连成好结果吧 [cite: 25]。",
+      [cite_start]"health": "会治好吧 [cite: 25]。",
+      [cite_start]"advice": "始终保持善心，好运自然长久 [cite: 25]。",
+      [cite_start]"story": "愿望：会实现 [cite: 25][cite_start]。盼望的人：变迟迟地才出现 [cite: 25]。"
+    }
+  },
+  {
+    "id": 46,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/46_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/46_1.jpg",
+    "poem": {
+      "title": "第46签",
+      "lines": ["雷發震天昏", "佳人獨掩門", "交加文書上", "無事也遭沌"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"雷震天地，处于极度担心的状况中 [cite: 25]。",
+        [cite_start]"如少女独处，应避免卷入混杂是非，处事用心 [cite: 25]。",
+        [cite_start]"合约等文书事务易发生错误或诉讼 [cite: 25]。",
+        [cite_start]"若过度信任自身才能而妄动，诸事皆为凶 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。雷声轰鸣，文书生非 [cite: 25]。",
+      [cite_start]"career": "合约法律纠纷多，切忌盲目自信 [cite: 25]。",
+      [cite_start]"love": "会产生不好的结果吧 [cite: 25]。",
+      [cite_start]"health": "会治好吧 [cite: 25]。",
+      [cite_start]"advice": "心地诚挚，小心谨慎，不可过度信任自身才干 [cite: 25]。",
+      [cite_start]"story": "愿望：难以实现 [cite: 25][cite_start]。搬家：现在放弃吧 [cite: 25]。"
+    }
+  },
+  {
+    "id": 47,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/47_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/47_1.jpg",
+    "poem": {
+      "title": "第47签",
+      "lines": ["更望身前立", "何期在晚成", "若遇重山去", "財祿自相迎"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"不可过度着急实现愿望 [cite: 25]。",
+        [cite_start]"大器晚成，应扩充胸襟，耐心等待成功 [cite: 25]。",
+        [cite_start]"辛苦翻过重重人生之山，希望必能实现 [cite: 25]。",
+        [cite_start]"财产地位必能如期而至 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。大器晚成，翻山见财 [cite: 25]。",
+      [cite_start]"career": "需要长时间的积累与翻越困难，最终大成 [cite: 25]。",
+      [cite_start]"love": "全部都可得到好结果吧 [cite: 25]。",
+      [cite_start]"health": "变得往后才会治好吧 [cite: 25]。",
+      [cite_start]"advice": "延长志气，切莫焦急 [cite: 25]。",
+      [cite_start]"story": "愿望：会实现 [cite: 25][cite_start]。遗失物：会出现 [cite: 25]。"
+    }
+  },
+  {
+    "id": 48,
+    "level": "小吉",
+    "imageFront": "senso-ji-omikuji-main/48_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/48_1.jpg",
+    "poem": {
+      "title": "第48签",
+      "lines": ["見祿隔前溪", "勞心休更迷", "一朝逢好渡", "鸞鳳入雲飛"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"想要的东西如隔溪宝物，眼见却难得 [cite: 25]。",
+        [cite_start]"勉强求财会使心迷惘，应暂时保持平常心 [cite: 25]。",
+        [cite_start]"一旦时机成熟，自然会有贵人相助，顺利渡河 [cite: 25]。",
+        [cite_start]"如同鸾凤飞向高空，必能出人头地 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签小吉。鸾凤高飞，静待时机 [cite: 25]。",
+      [cite_start]"career": "目前求财劳心，需等待良机与贵人引荐 [cite: 25]。",
+      [cite_start]"love": "草草了事吧 [cite: 25]。",
+      [cite_start]"health": "虽然拖长，但是期间内会治好吧 [cite: 25]。",
+      [cite_start]"advice": "抱持正直之心，等待时机自然好转 [cite: 25]。",
+      [cite_start]"story": "愿望：如果一直抱持正直之心，后来能被实现 [cite: 25][cite_start]。遗失物：会出现 [cite: 25]。"
+    }
+  },
+  {
+    "id": 49,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/49_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/49_1.jpg",
+    "poem": {
+      "title": "第49签",
+      "lines": ["正好中秋月", "蟾蜍皎潔間", "暗雲知何處", "故故兩相攀"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"运势如中秋明月般圆满美好 [cite: 25]。",
+        [cite_start]"心中澄澈，迷惘皆无，一片清静 [cite: 25]。",
+        [cite_start]"万里晴空，毫无阻碍之事 [cite: 25]。",
+        [cite_start]"心境晴朗无比，诸事顺遂 [cite: 25]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。月满中秋，万事亨通 [cite: 25]。",
+      [cite_start]"career": "事业毫无阻碍，正处于巅峰期 [cite: 25]。",
+      [cite_start]"love": "草草了事吧 [cite: 25]。",
+      [cite_start]"health": "严重吧 [cite: 25]。",
+      [cite_start]"advice": "享受好运的同时注意身体突发状况 [cite: 25]。",
+      [cite_start]"story": "愿望：会实现 [cite: 25][cite_start]。旅行：好吧 [cite: 25]。"
+    }
+  },
+  {
+    "id": 50,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/50_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/50_1.jpg",
+    "poem": {
+      "title": "第50签",
+      "lines": ["有達宜更變", "重山利政逢", "前途相偶合", "財祿保亨通"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"应改进方法不断向前，以求达成愿望 [cite: 25]。",
+        [cite_start]"重山叠障象征“出”字，一旦下定决心起飞，行动必成 [cite: 25, 30]。",
+        [cite_start]"将来自然会与幸福不期而遇 [cite: 30]。",
+        [cite_start]"财宝利禄从始至终必能保全亨通 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。重山见出，财禄亨通 [cite: 25, 30]。",
+      [cite_start]"career": "改革旧法必有大成，前途一片光明 [cite: 30]。",
+      [cite_start]"love": "成为好的结果吧 [cite: 30]。",
+      [cite_start]"health": "会治好吧 [cite: 30]。",
+      [cite_start]"advice": "勇敢改变现状，不要停留在原地 [cite: 30]。",
+      [cite_start]"story": "愿望：会实现 [cite: 30][cite_start]。遗失物：会出现 [cite: 30]。"
+    }
+  }
+]
+[
+  {
+    "id": 51,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/51_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/51_1.jpg",
+    "poem": {
+      "title": "第51签",
+      "lines": ["修進甚功辛", "勞生未得時", "騰身遊碧漢", "方得遇高枝"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "虽然一直勤劳努力，但目前只感觉到辛苦 [cite: 30]。",
+        "虽然拼命努力，但似乎还没到花开的时期 [cite: 30]。",
+        "抱着大决心真心地挑战看看吧 [cite: 30]。",
+        "确实地能得到资产、财宝或出人头地 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为吉 [cite: 30]。虽目前辛劳，但大决意挑战必能遇高枝 [cite: 30]。",
+      "career": "确实能得到出人头地的机会 [cite: 30]。",
+      "love": "会得到好结果吧 [cite: 30]。",
+      "health": "变得往后才治好吧 [cite: 30]。",
+      "advice": "不要因为现在的辛苦而停止努力，抱着大志向前吧 [cite: 30]。",
+      "story": "愿望：会实现 [cite: 30]。遗失物：难出现 [cite: 30]。"
+    }
+  },
+  {
+    "id": 52,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/52_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/52_1.jpg",
+    "poem": {
+      "title": "第52签",
+      "lines": ["有僭須惹訟", "兼有事交加", "門裡防人危", "災臨莫嘆嗟"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "自身发生错误的事，或引起争讼 [cite: 30]。",
+        "诉讼之外更加上有一件带来困难的争执 [cite: 30]。",
+        "需防范亲戚或家人当中的灾难 [cite: 30]。",
+        "就算有灾难也不要叹气，帮助你的人会出现 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 30]。事端交加，需防家门之灾，莫因灾叹息 [cite: 30]。",
+      "career": "易卷入争讼或困难的争执 [cite: 30]。",
+      "love": "不好也不坏吧 [cite: 30]。",
+      "health": "会拖长吧 [cite: 30]。",
+      "advice": "解决家里的问题可以防止灾难，保持冷静等待援助 [cite: 30]。",
+      "story": "愿望：难实现 [cite: 30]。旅行：因为不好，避开吧 [cite: 30]。"
+    }
+  },
+  {
+    "id": 53,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/53_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/53_1.jpg",
+    "poem": {
+      "title": "第53签",
+      "lines": ["久困漸能安", "雲書降印權", "殘花終結實", "時亨祿自遷"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "长时间的劳苦终于消散，渐渐变好 [cite: 30]。",
+        "从上位者处能得到好的资格、身份或权力 [cite: 30]。",
+        "像残花结成果实般，运势终于到来 [cite: 30]。",
+        "能自由得到福德、高升，最后幸福 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为吉 [cite: 30]。久困脱离，权禄自来 [cite: 30]。",
+      "career": "能得到职位提升或福德高升 [cite: 30]。",
+      "love": "全都朝向好的方向吧 [cite: 30]。",
+      "health": "会治好吧 [cite: 30]。",
+      "advice": "运势已亨通，尽情发挥才能 [cite: 30]。",
+      "story": "愿望：能被实现 [cite: 30]。遗失物：变得迟迟才找到吧 [cite: 30]。"
+    }
+  },
+  {
+    "id": 54,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/54_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/54_1.jpg",
+    "poem": {
+      "title": "第54签",
+      "lines": ["身同意不同", "月蝕暗長空", "輪雖常在手", "魚水未相逢"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "只是着急不能分出好坏 [cite: 30]。",
+        "运势如月食般黑暗，被乌云笼罩 [cite: 30]。",
+        "虽然好事在眼前，也没办法得到 [cite: 30]。",
+        "如果和周围的人没法心意相通，什么事都做不成 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 30]。心意不合，由于欠缺和睦导致停滞 [cite: 30]。",
+      "career": "虽然有工具或机会在手，但因缺乏人和而失败 [cite: 30]。",
+      "love": "变成坏结果吧 [cite: 30]。",
+      "health": "危险吧 [cite: 30]。",
+      "advice": "经常顺应世界、心情平静的立场是非常重要的 [cite: 30]。",
+      "story": "愿望：难实现 [cite: 30]。盼望的人：不会出现 [cite: 30]。"
+    }
+  },
+  {
+    "id": 55,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/55_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/55_1.jpg",
+    "poem": {
+      "title": "第55签",
+      "lines": ["雲散月重明", "天書得誌誠", "雖然多阻滯", "花發再重榮"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "遮蔽月亮的云散去，放晴的心变得澄净 [cite: 30]。",
+        "人心澄清，妨碍的事物消失不见 [cite: 30]。",
+        "就算有阻碍或困难，也不会到痛苦的程度 [cite: 30]。",
+        "变成再一次繁盛的状态，子孙也会繁荣 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为吉 [cite: 30]。云散月明，障碍消除，再次繁荣 [cite: 30]。",
+      "career": "阻碍消去，事业将再次繁盛 [cite: 30]。",
+      "love": "全都好吧 [cite: 30]。",
+      "health": "会治好吧 [cite: 30]。",
+      "advice": "困难已是过去，前方是晴朗的前途 [cite: 30]。",
+      "story": "愿望：会实现 [cite: 30]。遗失物：会找到吧 [cite: 30]。"
+    }
+  },
+  {
+    "id": 56,
+    "level": "末小吉",
+    "imageFront": "senso-ji-omikuji-main/56_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/56_1.jpg",
+    "poem": {
+      "title": "第56签",
+      "lines": ["生涯喜又憂", "未老先白頭", "勞心千百度", "芳遇貴人留"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "喜事和悲伤的事轮流到来 [cite: 30]。",
+        "操心的事很多，导致未老先衰 [cite: 30]。",
+        "会遇到好几次重叠的劳苦 [cite: 30]。",
+        "但得到贵人帮助，最后变得幸福 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签末小吉 [cite: 30]。一生喜忧参半，多劳心但终遇贵人 [cite: 30]。",
+      "career": "劳心费力，需等待贵人留任或提拔 [cite: 30]。",
+      "love": "马马虎虎还可以吧 [cite: 30]。",
+      "health": "变迟迟才治好吧 [cite: 30]。",
+      "advice": "虽然辛劳多，但最后会得到上位者的力量 [cite: 30]。",
+      "story": "愿望：难实现 [cite: 30]。旅行：如果有同行的人就好 [cite: 30]。"
+    }
+  },
+  {
+    "id": 57,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/57_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/57_1.jpg",
+    "poem": {
+      "title": "第57签",
+      "lines": ["欲渡長江闊", "波深未自傳", "前津逢浪靜", "重整鉤鰲鉤"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "想要达成的事物困难很多，如渡过宽阔大江 [cite: 30]。",
+        "波涛凶猛，暂时难达目的地 [cite: 30]。",
+        "安详地等待波浪平静、容易渡河的时候 [cite: 30]。",
+        "准备好钓钩，就能得到大收获，幸运机会将来 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为吉 [cite: 30]。目前波浪深阔难渡，重整旗鼓待浪静 [cite: 30]。",
+      "career": "目前不宜硬闯，蓄势待发可钓大鱼 [cite: 30]。",
+      "love": "马马虎虎还可以吧 [cite: 30]。",
+      "health": "虽然会治好，但会拖长吧 [cite: 30]。",
+      "advice": "冷静观察时机，不要在波浪大时强行渡江 [cite: 30]。",
+      "story": "愿望：会实现 [cite: 30]。旅行：坏吧 [cite: 30]。"
+    }
+  },
+  {
+    "id": 58,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/58_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/58_1.jpg",
+    "poem": {
+      "title": "第58签",
+      "lines": ["有徑江海隔", "車行峻嶺危", "亦防多進退", "猶恐小人虧"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "事情的施行有各式各样的困难，如江海阻隔 [cite: 30]。",
+        "推车向峻岭，有非常大的困难且不能粗心 [cite: 30]。",
+        "进退维谷，左右为难 [cite: 30]。",
+        "有小人阻碍，坏事接踵而来 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 30]。路途险峻，进退两难，防小人陷害 [cite: 30]。",
+      "career": "面临巨大障碍，且有小人作祟阻挠进度 [cite: 30]。",
+      "love": "坏吧 [cite: 30]。",
+      "health": "不能安心吧 [cite: 30]。",
+      "advice": "需经常用心，不要轻举妄动 [cite: 30]。",
+      "story": "愿望：难实现 [cite: 30]。搬家：终止吧 [cite: 30]。"
+    }
+  },
+  {
+    "id": 59,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/59_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/59_1.jpg",
+    "poem": {
+      "title": "第59签",
+      "lines": ["去住心無定", "行藏亦未寧", "一輪清皎潔", "卻被黑雲乘"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "心无定见，充满不安与迷惘 [cite: 30]。",
+        "行为举止也不安宁 [cite: 30]。",
+        "原本澄澈明亮的心 [cite: 30]。",
+        "却被迷惘的黑云覆盖，看不清目的地 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 30]。心无定准，清光受蒙，诸事未宁 [cite: 30]。",
+      "career": "意志动摇，目标被黑云遮蔽，难以决断 [cite: 30]。",
+      "love": "得到坏结果吧 [cite: 30]。",
+      "health": "危险吧 [cite: 30]。",
+      "advice": "快点除去迷惘的云，取回原本的心吧 [cite: 30]。",
+      "story": "愿望：难实现 [cite: 30]。旅行：似乎会发生坏事 [cite: 30]。"
+    }
+  },
+  {
+    "id": 60,
+    "level": "小吉",
+    "imageFront": "senso-ji-omikuji-main/60_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/60_1.jpg",
+    "poem": {
+      "title": "第60签",
+      "lines": ["高危安可涉", "平坦是延年", "守道當逢泰", "風雲不偶然"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "高处不安稳，平凡的生活才是长久安乐之法 [cite: 30]。",
+        "守着平坦的道路可以延年益寿 [cite: 30]。",
+        "正直的生活，上天必定会给予恩惠 [cite: 30]。",
+        "好运的到来并非偶然 [cite: 30]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签小吉 [cite: 30]。莫涉高危，守正走平坦路必逢泰运 [cite: 30]。",
+      "career": "守住本分，平凡稳重地推进工作即可 [cite: 30]。",
+      "love": "马马虎虎地算好吧 [cite: 30]。",
+      "health": "会拖长吧 [cite: 30]。",
+      "advice": "正心而行，不追求虚荣或危险的目标 [cite: 30]。",
+      "story": "愿望：如果正心而行的话会实现 [cite: 30]。盼望的人：不会出现吧 [cite: 30]。"
+    }
+  },
+  {
+    "id": 61,
+    "level": "半吉",
+    "imageFront": "senso-ji-omikuji-main/61_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/61_1.jpg",
+    "poem": {
+      "title": "第61签",
+      "lines": ["舊愆何日解", "戶內保嬋娟", "要逢十一口", "遇鼠過牛邊"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "过去错误何时消失令人担心 [cite: 35]。",
+        "应反省自己，用心在家和睦 [cite: 35]。",
+        "十一和口重叠即“吉”字，努力祈求必会到来 [cite: 35]。",
+        "夜深人静也起床努力，奋斗不懈 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签半吉 [cite: 35]。解旧罪、保内和，努力至“吉”现 [cite: 35]。",
+      "career": "需倍加努力，克服过去的失误 [cite: 35]。",
+      "love": "不好吧 [cite: 35]。",
+      "health": "会拖长吧 [cite: 35]。",
+      "advice": "如果不反省并夜以继日努力，好运难见 [cite: 35]。",
+      "story": "愿望：难实现 [cite: 35]。遗失物：难找到吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 62,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/62_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/62_1.jpg",
+    "poem": {
+      "title": "第62签",
+      "lines": ["災 時時退", "名顯四方揚", "改故重乘祿", "昴高福自昌"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "灾难消退，运势展开 [cite: 35]。",
+        "名声传遍世间 [cite: 35]。",
+        "改去旧习，得到名副其实的幸运 [cite: 35]。",
+        "出人头地，福运繁荣昌盛 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签大吉 [cite: 35]。灾去名扬，重乘福禄，昌盛之兆 [cite: 35]。",
+      "career": "事业改旧换新，名声远播，获得丰厚回报 [cite: 35]。",
+      "love": "全都好吧 [cite: 35]。",
+      "health": "会治好吧 [cite: 35]。",
+      "advice": "这是极佳的转运期，大展宏图之时 [cite: 35]。",
+      "story": "愿望：会实现 [cite: 35]。盼望的人：会出现 [cite: 35]。"
+    }
+  }
+]
+[
+  {
+    "id": 63,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/63_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/63_1.jpg",
+    "poem": {
+      "title": "第63签",
+      "lines": ["何故生荆棘", "家人意漸疏", "久困重輪下", "黃金未出渠"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "不知何故家中产生问题 [cite: 35]。",
+        "家人或夫妇之间心意不通 [cite: 35]。",
+        "若不反省则长时间劳苦如压重轮 [cite: 35]。",
+        "因游玩失去财产，一直无法回复 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 35]。家生荆棘，心意疏离，久困难出 [cite: 35]。",
+      "career": "受家庭问题拖累，事业停滞不前 [cite: 35]。",
+      "love": "会产生坏结果吧 [cite: 35]。",
+      "health": "难治愈吧 [cite: 35]。",
+      "advice": "努力忠于本分，反省自身原因 [cite: 35]。",
+      "story": "愿望：难实现 [cite: 35]。旅行：似乎会发生坏事 [cite: 35]。"
+    }
+  },
+  {
+    "id": 64,
+    "level": "末吉",
+    "imageFront": "senso-ji-omikuji-main/64_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/64_1.jpg",
+    "poem": {
+      "title": "第64签",
+      "lines": ["安居且慮危", "情深主別離", "風飄波浪急", "鴛鴦各自飛"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "即便安乐也要忧心潜在危险 [cite: 35]。",
+        "与感情深厚的人可能面临离别 [cite: 35]。",
+        "风强浪大，局势不稳 [cite: 35]。",
+        "鸳鸯虽然本不分离，但也飞向分离的命运 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签末吉 [cite: 35]。居安思危，情深防离，风浪中各自飞 [cite: 35]。",
+      "career": "外部环境如风飘波浪，需防合作伙伴离心 [cite: 35]。",
+      "love": "不好吧 [cite: 35]。",
+      "health": "危险吧 [cite: 35]。",
+      "advice": "静静地等待，不要强求团圆 [cite: 35]。",
+      "story": "愿望：难实现 [cite: 35]。遗失物：不会出现吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 65,
+    "level": "末吉",
+    "imageFront": "senso-ji-omikuji-main/65_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/65_1.jpg",
+    "poem": {
+      "title": "第65签",
+      "lines": ["苦病兼防辱", "乘危亦未穌", "若見一陽後", "方可作良圖"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "内心痛苦且受人侮辱般地不安乐 [cite: 35]。",
+        "面临危险且不能轻易解决 [cite: 35]。",
+        "等到春天（一阳）到来时才会有好事 [cite: 35]。",
+        "届时再立定计划开始行动 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签末吉 [cite: 35]。苦病防辱，待春阳现，方可良图 [cite: 35]。",
+      "career": "目前不宜大动，静候时机转暖再图发展 [cite: 35]。",
+      "love": "得到还可以的结果吧 [cite: 35]。",
+      "health": "虽然拖长但会治好吧 [cite: 35]。",
+      "advice": "到好事开始前请静静忍耐 [cite: 35]。",
+      "story": "愿望：以后会实现 [cite: 35]。盼望的人：变得迟迟才出现吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 66,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/66_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/66_1.jpg",
+    "poem": {
+      "title": "第66签",
+      "lines": ["水滯少波濤", "飛鴻落羽毛", "重憂心緒亂", "閑事惹風騷"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "水淤塞浪不起，物质精神贫乏 [cite: 35]。",
+        "如鸿雁掉羽无法飞行，失去重要之物 [cite: 35]。",
+        "悲伤事接踵而来，心思混乱走投无路 [cite: 35]。",
+        "即使想待在安静处也会惹来大问题 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 35]。水滞鸿落，重忧乱绪，闲事招非 [cite: 35]。",
+      "career": "缺乏活力与资源，事业陷入僵局甚至倒退 [cite: 35]。",
+      "love": "坏吧 [cite: 35]。",
+      "health": "几乎没希望吧 [cite: 35]。",
+      "advice": "处于极端不利地位，应低调避祸 [cite: 35]。",
+      "story": "愿望：难实现 [cite: 35]。盼望的人：不会出现吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 67,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/67_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/67_1.jpg",
+    "poem": {
+      "title": "第67签",
+      "lines": ["枯木未生枝", "獨步上雲岐", "豈知身未穩", "獨自惹閑非"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "如枯木未生叶，愿望不会实现 [cite: 35]。",
+        "独自烦恼，时机未到 [cite: 35]。",
+        "身心不稳，需信心与谨慎 [cite: 35]。",
+        "不悔悟错误则会后患无穷 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 35]。枯木无枝，独步不稳，闲非自惹 [cite: 35]。",
+      "career": "目前的追求如同枯木寻芳，非但无成反惹是非 [cite: 35]。",
+      "love": "坏吧 [cite: 35]。",
+      "health": "会拖长吧 [cite: 35]。",
+      "advice": "举止谨慎，修身省过 [cite: 35]。",
+      "story": "愿望：难实现 [cite: 35]。盼望的人：不会出现吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 68,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/68_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/68_1.jpg",
+    "poem": {
+      "title": "第68签",
+      "lines": ["異夢生英傑", "前來事可疑", "芳菲春日暖", "依舊發殘枝"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "出优秀的人或做好梦，是神佛加持 [cite: 35]。",
+        "虽然得到幸福，但与昨日相比难以置信 [cite: 35]。",
+        "春暖花开，幸福来临 [cite: 35]。",
+        "枯木开花，发生可贺之事 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为吉 [cite: 35]。异梦英杰，春暖芳菲，残枝发新 [cite: 35]。",
+      "career": "事业迎来转机，会有意外的好运或助力 [cite: 35]。",
+      "love": "全都好吧 [cite: 35]。",
+      "health": "会治好吧 [cite: 35]。",
+      "advice": "自重自爱是非常重要的 [cite: 35]。",
+      "story": "愿望：会实现 [cite: 35]。遗失物：会出来吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 69,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/69_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/69_1.jpg",
+    "poem": {
+      "title": "第69签",
+      "lines": ["明月暗雲浮", "花紅一半枯", "傷心處 惹事", "行舟莫遠圖"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "明月被云遮住，状态不晴朗 [cite: 35]。",
+        "红花半枯，运气走下坡 [cite: 35]。",
+        "努力做事也只是伤心担心 [cite: 35]。",
+        "无法越过阻碍，莫作远图 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 35]。云浮明月，花红半枯，莫作远图 [cite: 35]。",
+      "career": "运势低迷，大规模或长远计划难以成功 [cite: 35]。",
+      "love": "坏吧 [cite: 35]。",
+      "health": "切忌粗心大意 [cite: 35]。",
+      "advice": "谨慎地等待时机到来 [cite: 35]。",
+      "story": "愿望：难实现 [cite: 35]。旅行：放弃吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 70,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/70_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/70_1.jpg",
+    "poem": {
+      "title": "第70签",
+      "lines": ["雷發亭前草", "炎火向天飛", "一心來趕祿", "爭奈掩朱扉"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "由于身份低的人引发灾祸 [cite: 35]。",
+        "上下不合，发生争执 [cite: 35]。",
+        "一心求利却没法实现 [cite: 35]。",
+        "最后大门紧闭，无可奈何 [cite: 35]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 35]。雷发炎火，求禄无门，争奈掩扉 [cite: 35]。",
+      "career": "内部冲突剧烈，由于下级失误导致求财受阻 [cite: 35]。",
+      "love": "万事坏吧 [cite: 35]。",
+      "health": "不能安心吧 [cite: 35]。",
+      "advice": "重视雇用的人或部下，防止灾难 [cite: 35]。",
+      "story": "愿望：难实现 [cite: 35]。搬家：避免吧 [cite: 35]。"
+    }
+  },
+  {
+    "id": 71,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/71_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/71_1.jpg",
+    "poem": {
+      "title": "第71签",
+      "lines": ["道業未成時", "何期兩不宜", "事煩心緒亂", "做徘徊思"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "实力未成熟，正处于学习期 [cite: 42]。",
+        "想做什么也无法驾驭 [cite: 42]。",
+        "引起各种麻烦痛苦与混乱 [cite: 42]。",
+        "难出主意，徘徊定不下来 [cite: 42]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 42]。道业未成，事烦乱绪，徘徊难决 [cite: 42]。",
+      "career": "能力不足以支撑目标，处处碰壁且思绪混乱 [cite: 42]。",
+      "love": "产生坏的结果吧 [cite: 42]。",
+      "health": "会拖长吧 [cite: 42]。",
+      "advice": "现在是需要反省与学习的时期 [cite: 42]。",
+      "story": "愿望：难实现 [cite: 42]。盼望的人：不会出现吧 [cite: 42]。"
+    }
+  },
+  {
+    "id": 72,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/72_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/72_1.jpg",
+    "poem": {
+      "title": "第72签",
+      "lines": ["戶內防重厄", "花菓見分枝", "嚴霜纔過後", "方可始相宜"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "需防范家中灾祸，保持注意 [cite: 42]。",
+        "家庭不合，全部不和睦 [cite: 42]。",
+        "悔改试炼过后，会有好事 [cite: 42]。",
+        "家和睦后好事越多 [cite: 42]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为吉 [cite: 42]。先防重厄，家和则花果相宜 [cite: 42]。",
+      "career": "内部团结是关键，战胜试炼后事业顺遂 [cite: 42]。",
+      "love": "虽然还可以，但最后变得更好吧 [cite: 42]。",
+      "health": "会拖长吧 [cite: 42]。",
+      "advice": "相互悔改坏的地方，以和为贵 [cite: 42]。",
+      "story": "愿望：后来会实现吧 [cite: 42]。遗失物：变迟才能找到吧 [cite: 42]。"
+    }
+  },
+  {
+    "id": 73,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/73_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/73_1.jpg",
+    "poem": {
+      "title": "第73签",
+      "lines": ["久暗漸分明", "登江綠水澄", "芝書從遠降", "終得異人成"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "乌云放晴，幸运到 [cite: 42]。",
+        "水木澄清，没有担心的事 [cite: 42]。",
+        "得到上位者推荐 [cite: 42]。",
+        "出人头地，神佛帮助好结果 [cite: 42]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为吉 [cite: 42]。暗中见明，绿水澄净，异人促成 [cite: 42]。",
+      "career": "获贵人或高层提拔，前景豁然开朗 [cite: 42]。",
+      "love": "全都好吧 [cite: 42]。",
+      "health": "会治好吧 [cite: 42]。",
+      "advice": "产生信心是很重要的 [cite: 42]。",
+      "story": "愿望：变得往后才能被实现吧 [cite: 42]。遗失物：会出来吧 [cite: 42]。"
+    }
+  },
+  {
+    "id": 74,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/74_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/74_1.jpg",
+    "poem": {
+      "title": "第74签",
+      "lines": ["蛇虎正交羅", "牛生二尾多", "交歲方成慶", "上下不能和"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "发生坏事，蛇虎混杂 [cite: 42]。",
+        "牛加两尾即“失”字，恐有损失 [cite: 42]。",
+        "常有争夺之事 [cite: 42]。",
+        "家里不和睦而不平静 [cite: 42]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 42]。蛇虎交罗，牛生二尾，上下不和 [cite: 42]。",
+      "career": "竞争激烈且伴随损失，团队内部极度不团结 [cite: 42]。",
+      "love": "坏吧 [cite: 42]。",
+      "health": "不能安心吧 [cite: 42]。",
+      "advice": "用温和的心领会忍耐吧 [cite: 42]。",
+      "story": "愿望：难以实现吧 [cite: 42]。盼望的人：不会出现吧 [cite: 42]。"
+    }
+  },
+  {
+    "id": 75,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/75_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/75_1.jpg",
+    "poem": {
+      "title": "第75签",
+      "lines": ["孤舟欲過岸", "浪急渡人空", "女人立流水", "望月意情濃"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        "孤舟渡河，没有帮手 [cite: 42]。",
+        "水流急，过渡危险 [cite: 42]。",
+        "柔弱女性立于急流，非常危险 [cite: 42]。",
+        "虚幻期盼，虽然想做些什么但没法帮助 [cite: 42]。"
+      ]
+    },
+    "interpretation": {
+      "summary": "此签为凶 [cite: 42]。孤舟渡急，人立流水，虚情空望 [cite: 42]。",
+      "career": "势单力薄且面临严峻环境，缺乏支持者 [cite: 42]。",
+      "love": "坏吧 [cite: 42]。",
+      "health": "陷入疾病的话危险吧 [cite: 42]。",
+      "advice": "反省自己的行为，依靠神佛防止灾难 [cite: 42]。",
+      "story": "愿望：难实现 [cite: 42]。遗失物：不能找回来吧 [cite: 42]。"
+    }
+  }
+]
+[
+  {
+    "id": 76,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/76_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/76_1.jpg",
+    "poem": {
+      "title": "第76签",
+      "lines": ["富貴天之祐", "何須苦用心", "前程應顯跡", "久用得高臨"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"得到財產、地位變高是上天賜給的東西 [cite: 5]。",
+        [cite_start]"沒有神佛的幫忙的話，單靠苦用心思不能實現 [cite: 5]。",
+        [cite_start]"前程的好壞是根據至今為止所做的行為的好壞而來的 [cite: 5]。",
+        [cite_start]"徹底行善的話，地位會變高，財寶也能得到 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。富贵天佑，行善积德，高位自临 [cite: 5]。",
+      [cite_start]"career": "長期盡心盡力必得高位，財產和地位會提高 [cite: 5]。",
+      [cite_start]"love": "全部都好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "長時間走正道行善，上天自會賜予富貴 [cite: 5]。",
+      [cite_start]"story": "願望：會實現。盼望的人：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 77,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/77_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/77_1.jpg",
+    "poem": {
+      "title": "第77签",
+      "lines": ["累滯未能穌", "求名莫遠圖", "登舟波浪急", "咫尺隔天衢"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"萬事不能順利進行地接連而來，看不到前途 [cite: 5]。",
+        [cite_start]"現在不能想要名聲廣播、祈求幸福等 [cite: 5]。",
+        [cite_start]"想要乘船而去但浪高難以渡過 [cite: 5]。",
+        [cite_start]"雖然願望快要實現，但是被災難遮擋 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。累滞不苏，波浪险急，远图莫求 [cite: 5]。",
+      [cite_start]"career": "目前不宜追求名聲或遠大計畫，障礙如天差地別 [cite: 5]。",
+      [cite_start]"love": "壞吧 [cite: 5]。",
+      [cite_start]"health": "不能安心吧 [cite: 5]。",
+      [cite_start]"advice": "請自重、等待時機的到來 [cite: 5]。",
+      [cite_start]"story": "願望：難實現。遺失物：難找到 [cite: 5]。"
+    }
+  },
+  {
+    "id": 78,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/78_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/78_1.jpg",
+    "poem": {
+      "title": "第78签",
+      "lines": ["但存公道正", "何愁理去忠", "松柏蒼蒼翠", "前山祿馬重"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"守著公共的正道，為了大家做好事 [cite: 5]。",
+        [cite_start]"忠實地盡力做事，就算立場變壞也不要悲傷嘆息 [cite: 5]。",
+        [cite_start]"心要像松柏經常青翠般地保持誠懇之道 [cite: 5]。",
+        [cite_start]"將來有好事，福德很多地變得幸福吧 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。公道正大，松柏常青，福禄双重 [cite: 5]。",
+      [cite_start]"career": "忠誠行事必有回報，未來祿馬重重，非常幸福 [cite: 5]。",
+      [cite_start]"love": "全都好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "不論環境如何，堅持公道與忠誠，必得後福 [cite: 5]。",
+      [cite_start]"story": "願望：會實現。遺失物：會出來 [cite: 5]。"
+    }
+  },
+  {
+    "id": 79,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/79_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/79_1.jpg",
+    "poem": {
+      "title": "第79签",
+      "lines": ["殘月未還光", "樽前非語傷", "戶中有人厄", "祈福保青陽"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"月光尚未衰退，你也隨著上年紀越來越能活躍 [cite: 5]。",
+        [cite_start]"雖然喝酒做事沒出錯，但是家中稍微有災難 [cite: 5]。",
+        [cite_start]"家中恐有人遭遇厄運 [cite: 5]。",
+        [cite_start]"如果信仰著期待幸福，心會變得安定安泰 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。残月还光，防家中厄，祈福保安 [cite: 5]。",
+      [cite_start]"career": "大願望雖然難成，但小事能順利，晚年運勢仍佳 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "雖然會拖長，但會治好 [cite: 5]。",
+      [cite_start]"advice": "家中若有小災需多祈福，保持安定心境 [cite: 5]。",
+      [cite_start]"story": "願望：雖然能被實現但是大願望不行 [cite: 5]。"
+    }
+  },
+  {
+    "id": 80,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/80_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/80_1.jpg",
+    "poem": {
+      "title": "第80签",
+      "lines": ["深山多養道", "忠正帝王宜", "鳳 鸞飛去", "昇高過九天"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"在險惡的環境修行，窮究真誠之道 [cite: 5]。",
+        [cite_start]"忠誠的心被認同，受居上位者重用 [cite: 5]。",
+        [cite_start]"鳳凰與鸞鳥飛起，是可喜可賀的象徵 [cite: 5]。",
+        [cite_start]"高高的目標接連地能達成，飛越九天 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。深山养道，忠正得位，飞鸣九天 [cite: 5]。",
+      [cite_start]"career": "深受重用，大出人頭地，能達成極高目標 [cite: 5]。",
+      [cite_start]"love": "是好的 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "保持謙虛的姿態，會招來更好的結果 [cite: 5]。",
+      [cite_start]"story": "願望：會實現。遺失物：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 81,
+    "level": "小吉",
+    "imageFront": "senso-ji-omikuji-main/81_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/81_1.jpg",
+    "poem": {
+      "title": "第81签",
+      "lines": ["道合須成合", "先憂事更多", "所求財寶盛", "更變得中和"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"行為如果實踐道理，什麼都會成功 [cite: 5]。",
+        [cite_start]"最初會先有很多悲傷和痛苦的事 [cite: 5]。",
+        [cite_start]"之後所希望的財寶會如心想地靠過來 [cite: 5]。",
+        [cite_start]"災難變往幸福的方向，繁盛會到來 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签小吉。先忧后喜，道合事成，财宝盛多 [cite: 5]。",
+      [cite_start]"career": "雖然開始有憂慮，但最終財寶豐盛，事事中和 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "保持端正的心，痛苦過後即是繁盛 [cite: 5]。",
+      [cite_start]"story": "願望：變成往後才會實現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 82,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/82_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/82_1.jpg",
+    "poem": {
+      "title": "第82签",
+      "lines": ["火發應連天", "新愁惹舊愆", "欲求千里外", "要渡更無船"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"大火連天，代表慾望或怒氣不能安穩 [cite: 5]。",
+        [cite_start]"新的痛苦與舊傷痕都被拿出，擔心事多 [cite: 5]。",
+        [cite_start]"就算想逃往遠處也非常困難 [cite: 5]。",
+        [cite_start]"前進目標有大河卻無船，相當辛苦 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。火发连天，新愁旧愆，欲渡无船 [cite: 5]。",
+      [cite_start]"career": "進退兩難，諸事不順，勞心勞力卻無進展 [cite: 5]。",
+      [cite_start]"love": "全都壞吧 [cite: 5]。",
+      [cite_start]"health": "沒有把握（不明朗） [cite: 5]。",
+      [cite_start]"advice": "暫時保持現狀，不要勉強渡河 [cite: 5]。",
+      [cite_start]"story": "願望：難實現。遺失物：難出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 83,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/83_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/83_1.jpg",
+    "poem": {
+      "title": "第83签",
+      "lines": ["舉步出雲端", "高枝未可攀", "昇頭看皎月", "猶在黑雲間"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"想乘雲登天卻不能登天，願望落空 [cite: 5]。",
+        [cite_start]"想攀高枝卻無援助，生活不安 [cite: 5]。",
+        [cite_start]"抬頭看皎月，月亮仍隱藏在雲中 [cite: 5]。",
+        [cite_start]"心願難以清朗，處於晦暗狀態 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。举步落空，高枝难攀，月隐黑云 [cite: 5]。",
+      [cite_start]"career": "期望過高而無實質助力，事業處於停滯 [cite: 5]。",
+      [cite_start]"love": "產生壞結果吧 [cite: 5]。",
+      [cite_start]"health": "會拖長吧 [cite: 5]。",
+      [cite_start]"advice": "靜靜地端正行事，不要抱持不切實際的幻想 [cite: 5]。",
+      [cite_start]"story": "願望：難實現。遺失物：難出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 84,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/84_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/84_1.jpg",
+    "poem": {
+      "title": "第84签",
+      "lines": ["否極方無泰", "花開值晚秋", "人情不調備", "財寶鬼來偷"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"八方堵塞，沒有通暢的道路 [cite: 5]。",
+        [cite_start]"雖花開卻受晚秋冷風吹拂，立刻枯萎 [cite: 5]。",
+        [cite_start]"人情不和，各執己見，抱怨不停 [cite: 5]。",
+        [cite_start]"財產被偷走，漸漸減少變得貧窮 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。否极无泰，晚秋谢花，财宝鬼偷 [cite: 5]。",
+      [cite_start]"career": "時機不對且人際失和，財產面臨損失風險 [cite: 5]。",
+      [cite_start]"love": "產生壞的結果吧 [cite: 5]。",
+      [cite_start]"health": "危險吧 [cite: 5]。",
+      [cite_start]"advice": "諸事不順且有損財之憂，需多加提防 [cite: 5]。",
+      [cite_start]"story": "願望：難實現。遺失物：難出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 85,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/85_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/85_1.jpg",
+    "poem": {
+      "title": "第85签",
+      "lines": ["望用何愁晚", "求名漸得寧", "雲梯終有望", "歸路入蓬瀛"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"雖說願望很晚才會實現，不要悲傷嘆息 [cite: 5]。",
+        [cite_start]"慢慢地名聲漸起，變成安心地期待 [cite: 5]。",
+        [cite_start]"大願望也得到援助，終能被實現 [cite: 5]。",
+        [cite_start]"能得到福德、財產與長壽 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。晚成何愁，名利渐宁，终登云梯 [cite: 5]。",
+      [cite_start]"career": "大器晚成，後期名聲與地位都會顯著提升 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "耐心等待，幸福與福德最終會到來 [cite: 5]。",
+      [cite_start]"story": "願望：很晚實現。遺失物：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 86,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/86_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/86_1.jpg",
+    "poem": {
+      "title": "第86签",
+      "lines": ["花發應陽臺", "車行進寶財", "執文朝帝殿", "走馬聽聲雷"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"陽光照耀，花朵盛開，一切都能如願 [cite: 5]。",
+        [cite_start]"堆滿財寶的車子來到家，財產變得豐富 [cite: 5]。",
+        [cite_start]"被居上位者照顧，甚至能朝見帝王 [cite: 5]。",
+        [cite_start]"得意洋洋地騎馬，身份讓人羨慕 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。阳台花发，宝财盈车，执文朝帝 [cite: 5]。",
+      [cite_start]"career": "財運極佳，且會得到有力人士提拔，地位崇高 [cite: 5]。",
+      [cite_start]"love": "全都好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "現在是如魚得水的時期，萬事如意 [cite: 5]。",
+      [cite_start]"story": "願望：會實現。遺失物：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 87,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/87_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/87_1.jpg",
+    "poem": {
+      "title": "第87签",
+      "lines": ["鑿石方逢玉", "淘沙始見金", "青霄終有路", "只恐不堅心"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"鑿開石頭遇見寶玉，是沒想過的幸福 [cite: 5]。",
+        [cite_start]"淘沙見金，生活中財寶自然累積 [cite: 5]。",
+        [cite_start]"通向成功的道路已經開啟 [cite: 5]。",
+        [cite_start]"只要意志堅定一心努力，必定成功 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。凿石逢玉，淘沙见金，成功有望 [cite: 5]。",
+      [cite_start]"career": "只要有恆心，定能取得巨大成功與財富 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "最怕意志不堅，只要堅持到底，前途無量 [cite: 5]。",
+      [cite_start]"story": "願望：能被實現。遺失物：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 88,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/88_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/88_1.jpg",
+    "poem": {
+      "title": "第88签",
+      "lines": ["作事不和同", "臨危更主凶", "佳人生苦根", "閑慮兩三重"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"做事不合睦，與人或夫婦之間不和 [cite: 5]。",
+        [cite_start]"面臨危險時更加凶險 [cite: 5]。",
+        [cite_start]"產生關於妻子的痛苦或擔心 [cite: 5]。",
+        [cite_start]"壞事一而再地重複發生 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。作事不和，临危主凶，忧虑重重 [cite: 5]。",
+      [cite_start]"career": "內部失和且伴隨危險，計畫難以推展 [cite: 5]。",
+      [cite_start]"love": "壞吧 [cite: 5]。",
+      [cite_start]"health": "危險吧 [cite: 5]。",
+      [cite_start]"advice": "需要非常有信心，並著手解決內部的矛盾 [cite: 5]。",
+      [cite_start]"story": "願望：難實現。遺失物：不會出現 [cite: 5]。"
+    }
+  }
+]
+[
+  {
+    "id": 89,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/89_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/89_1.jpg",
+    "poem": {
+      "title": "第89签",
+      "lines": ["一片無瑕玉", "從今好琢磨", "得遇高人識", "方逢喜氣多"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"如無瑕玉是天賜寶物，天賦極佳 [cite: 5]。",
+        [cite_start]"用心更加努力琢磨，會變得更好 [cite: 5]。",
+        [cite_start]"會被名聲高的人賞識並得到提拔 [cite: 5]。",
+        [cite_start]"智慧與財寶充滿，驚喜連連 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。无瑕玉石，高人赏识，喜气盈门 [cite: 5]。",
+      [cite_start]"career": "才華會被貴人發掘並得到重用，前途光明 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "在好運中也要不斷磨練自己，以求更高境界 [cite: 5]。",
+      [cite_start]"story": "願望：能被實現。遺失物：不會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 90,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/90_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/90_1.jpg",
+    "poem": {
+      "title": "第90签",
+      "lines": ["一信向天飛", "秦川舟自歸", "前途成好事", "應得貴人推"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"心意通天，出人頭地的時機到來 [cite: 5]。",
+        [cite_start]"秦川舟歸，代表會得到各種財寶 [cite: 5]。",
+        [cite_start]"將來會遇見好事 [cite: 5]。",
+        [cite_start]"得到居上位者（菩薩）的力量推動 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。信向天飞，财宝自归，贵人推引 [cite: 5]。",
+      [cite_start]"career": "有如神助，事業能順利發展並獲取財富 [cite: 5]。",
+      [cite_start]"love": "全部都好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "只要有真心，便能得到貴人引薦，成就好事 [cite: 5]。",
+      [cite_start]"story": "願望：會實現。遺失物：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 91,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/91_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/91_1.jpg",
+    "poem": {
+      "title": "第91签",
+      "lines": ["改变前途去", "月桂又逢圓", "雲中乘祿至", "凡事可宜先"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"改掉壞事重新前進，事情會改變 [cite: 5]。",
+        [cite_start]"吉事如月再圓，缺點漸漸變好 [cite: 5]。",
+        [cite_start]"幸運與福德從天而降 [cite: 5]。",
+        [cite_start]"做任何事都搶佔先機，就能得好結果 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。改旧图新，月圆禄至，宜占先机 [cite: 5]。",
+      [cite_start]"career": "積極進取，領先一步行動會帶來巨大的成功 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "只要守正道且勇於改變，萬事皆宜 [cite: 5]。",
+      [cite_start]"story": "願望：如果守正道會實現。遺失物：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 92,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/92_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/92_1.jpg",
+    "poem": {
+      "title": "第92签",
+      "lines": ["自幼常為旅", "逢春駿馬驕", "前程宜進步", "得箭降青霄"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"幼時不安劳苦多，現在運氣到來 [cite: 5]。",
+        [cite_start]"如春天的駿馬奔跑，充滿活力 [cite: 5]。",
+        [cite_start]"前程應該大步邁進 [cite: 5]。",
+        [cite_start]"箭射青霄，代表從天而來的幸運 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。幼苦晚顺，春马奋蹄，前程进步 [cite: 5]。",
+      [cite_start]"career": "事業運勢正強，適合積極開拓，必有收穫 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "把握當下的好運勢，勇敢地向前邁進 [cite: 5]。",
+      [cite_start]"story": "願望：會實現。遺失物：會出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 93,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/93_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/93_1.jpg",
+    "poem": {
+      "title": "第93签",
+      "lines": ["有魚臨早池", "跳躍入波濤", "隔中須有望", "先且慮塵勞"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"如魚得水，進入廣大河川，運勢到來 [cite: 5]。",
+        [cite_start]"展露生機，跳躍前進 [cite: 5]。",
+        [cite_start]"虽然有阻礙，但最終有希望 [cite: 5]。",
+        [cite_start]"暫時需要忍耐塵勞與辛苦 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。鱼入波涛，虽有阻碍，后必有成 [cite: 5]。",
+      [cite_start]"career": "目前雖有辛苦阻礙，但大勢已成，忍耐後必繁榮 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會拖長吧 [cite: 5]。",
+      [cite_start]"advice": "保持真心與耐心，辛苦過後便是幸福 [cite: 5]。",
+      [cite_start]"story": "願望：後來能實現。遺失物：難出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 94,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/94_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/94_1.jpg",
+    "poem": {
+      "title": "第94签",
+      "lines": ["事忌樽前語", "人防小輩交", "幸乞陰公祐", "方免事敵爻"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"喝酒時說的話不能全部當真 [cite: 5]。",
+        [cite_start]"避免和地位低下的小人深交 [cite: 5]。",
+        [cite_start]"追隨神佛（陰公）的保佑 [cite: 5]。",
+        [cite_start]"化解敵對意識，廣泛和人交往，會變幸福 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。戒酒后言，防小人交，神佛保佑 [cite: 5]。",
+      [cite_start]"career": "需謹言慎行，避免職場口舌與小人是非 [cite: 5]。",
+      [cite_start]"love": "慌張草草了事 [cite: 5]。",
+      [cite_start]"health": "不會危害生命，但需用心維持 [cite: 5]。",
+      [cite_start]"advice": "化解敵對心，廣交善緣，依託神佛庇護 [cite: 5]。",
+      [cite_start]"story": "願望：不能按所想實現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 95,
+    "level": "吉",
+    "imageFront": "senso-ji-omikuji-main/95_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/95_1.jpg",
+    "poem": {
+      "title": "第95签",
+      "lines": ["志氣動修業", "若聞金雞語", "乘船得便風", "祿位未造逢"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"一心努力修業，漸漸會朝向好的方向 [cite: 5]。",
+        [cite_start]"等待黑夜放明，雞鳴時機到來 [cite: 5]。",
+        [cite_start]"如同乘船得便風，加速前進 [cite: 5]。",
+        [cite_start]"雖然現在福運未到，但最終必定會到 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为吉。志气修业，金鸡报晓，便风乘船 [cite: 5]。",
+      [cite_start]"career": "時機即將到來，屆時會如順風行船般快速發展 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "變得遲遲才治好 [cite: 5]。",
+      [cite_start]"advice": "等待時機，立定志向努力，幸福必在前方 [cite: 5]。",
+      [cite_start]"story": "願望：能被實現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 96,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/96_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/96_1.jpg",
+    "poem": {
+      "title": "第96签",
+      "lines": ["雞逐鳳同飛", "高林整羽儀", "棹舟須濟岸", "寶貨滿船歸"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"仰賴有地位的人，雞也能隨鳳同飛，出人頭地 [cite: 5]。",
+        [cite_start]"與身份高的人交流，得到幸福 [cite: 5]。",
+        [cite_start]"自己開始行動，能渡過難關到達對岸 [cite: 5]。",
+        [cite_start]"財寶滿船而歸，約定了極大的幸福 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。随凤同飞，羽仪高林，宝货满船 [cite: 5]。",
+      [cite_start]"career": "依託貴人提拔，事業能迅速攀升並獲得巨大財富 [cite: 5]。",
+      [cite_start]"love": "全部好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "抱持謹慎的心行動，幸福與財富必將盈門 [cite: 5]。",
+      [cite_start]"story": "願望：能被實現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 97,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/97_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/97_1.jpg",
+    "poem": {
+      "title": "第97签",
+      "lines": ["霧罩重樓屋", "佳人水上行", "白雲歸去路", "不見月波澄"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"重樓隱於霧中，每天陰暗煩惱不斷 [cite: 5]。",
+        [cite_start]"如女性獨自乘船，面臨危險狀態 [cite: 5]。",
+        [cite_start]"前方去向不明，白雲未定 [cite: 5]。",
+        [cite_start]"波浪凶猛，月亮倒影也看不見，阻礙多 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。雾罩重楼，佳人涉水，前途未定 [cite: 5]。",
+      [cite_start]"career": "前方迷霧重重且充滿危險，難以看到成果 [cite: 5]。",
+      [cite_start]"love": "壞吧 [cite: 5]。",
+      [cite_start]"health": "危險吧 [cite: 5]。",
+      [cite_start]"advice": "內心安定是最重要的，目前不宜冒險行動 [cite: 5]。",
+      [cite_start]"story": "願望：難以實現。遺失物：難出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 98,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/98_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/98_1.jpg",
+    "poem": {
+      "title": "第98签",
+      "lines": ["欲理新絲亂", "只困羅網裡", "相見幾人悲", "閑愁足是非"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"混亂如絲，失去心的痛苦難以理順 [cite: 5]。",
+        [cite_start]"如魚困網，掙扎感到痛苦，難以行動 [cite: 5]。",
+        [cite_start]"身邊人悲傷煩惱事多，難以忍受 [cite: 5]。",
+        [cite_start]"充滿是非，獨自抱著煩惱 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。丝乱难理，困于罗网，闲愁是非 [cite: 5]。",
+      [cite_start]"career": "陷入混亂的局面中且受制於人，是非不斷 [cite: 5]。",
+      [cite_start]"love": "壞吧 [cite: 5]。",
+      [cite_start]"health": "幾乎沒希望吧 [cite: 5]。",
+      [cite_start]"advice": "需用信心去面對，方能逃離煩惱傷心 [cite: 5]。",
+      [cite_start]"story": "願望：難以實現。遺失物：難出現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 99,
+    "level": "大吉",
+    "imageFront": "senso-ji-omikuji-main/99_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/99_1.jpg",
+    "poem": {
+      "title": "第99签",
+      "lines": ["紅日當門照", "暗月再重圓", "遇珍須得寶", "頗有稱心田"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"紅日當門，明亮照耀，有上天恩惠 [cite: 5]。",
+        [cite_start]"暗月重圓，生活重新恢復圓滿 [cite: 5]。",
+        [cite_start]"能得到稀奇財寶 [cite: 5]。",
+        [cite_start]"名聲顯赫，心願實現 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签大吉。红日当门，明月重圆，称心如意 [cite: 5]。",
+      [cite_start]"career": "運勢極佳，之前的不順都將消失，萬事順遂 [cite: 5]。",
+      [cite_start]"love": "好吧 [cite: 5]。",
+      [cite_start]"health": "會治好吧 [cite: 5]。",
+      [cite_start]"advice": "在萬事中要用謙虛的心，謹防驕傲與粗心 [cite: 5]。",
+      [cite_start]"story": "願望：能被實現 [cite: 5]。"
+    }
+  },
+  {
+    "id": 100,
+    "level": "凶",
+    "imageFront": "senso-ji-omikuji-main/100_0.jpg",
+    "imageBack": "senso-ji-omikuji-main/100_1.jpg",
+    "poem": {
+      "title": "第100签",
+      "lines": ["祿走白雲間", "攜琴走遠山", "不遇神仙面", "空惹意闌珊"],
+      "source": "浅草寺",
+      "lineInterpretations": [
+        [cite_start]"幸福隱藏在白雲間，失去倚賴 [cite: 5]。",
+        [cite_start]"攜琴走入山中，代表捨去人世 [cite: 5]。",
+        [cite_start]"沒遇到神仙，心中不安空虛 [cite: 5]。",
+        [cite_start]"走投無路，意興闌珊 [cite: 5]。"
+      ]
+    },
+    "interpretation": {
+      [cite_start]"summary": "此签为凶。禄走云间，携琴远山，意阑珊 [cite: 5]。",
+      [cite_start]"career": "失去依靠且目標難尋，事業發展受挫 [cite: 5]。",
+      [cite_start]"love": "全部壞吧 [cite: 5]。",
+      [cite_start]"health": "危險吧 [cite: 5]。",
+      [cite_start]"advice": "更換心情，不要抱著太大的野心在世間生活 [cite: 5]。",
+      [cite_start]"story": "願望：難實現。遺失物：難出現 [cite: 5]。"
+    }
+  }
+]

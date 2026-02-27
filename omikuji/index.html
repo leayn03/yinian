@@ -127,9 +127,12 @@
                     <div class="poem-section">
                         <h3 class="section-title">【签诗】</h3>
                         <div class="poem-content">
-                            <p v-for="(line, index) in currentFortune.poem.lines" :key="index" class="poem-line">
-                                {{ line }}
-                            </p>
+                            <div v-for="(line, index) in currentFortune.poem.lines" :key="index" class="poem-line-group">
+                                <span class="poem-line">{{ line }}</span>
+                                <span v-if="currentFortune.poem.lineInterpretations && currentFortune.poem.lineInterpretations[index]" class="poem-line-interpretation">
+                                    {{ currentFortune.poem.lineInterpretations[index] }}
+                                </span>
+                            </div>
                         </div>
                     </div>
 

@@ -374,11 +374,31 @@ body {
     text-align: center;
 }
 
+.poem-line-group {
+    margin-bottom: var(--spacing-sm);
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
 .poem-line {
-    font-size: 18px;
+    font-size: 22px;
     line-height: 1.8;
-    margin-bottom: var(--spacing-xs);
     letter-spacing: 2px;
+    font-family: "Noto Serif SC", "Source Han Serif SC", "STSong", "SimSun", serif;
+    font-weight: 500;
+    color: var(--color-text-primary);
+}
+
+.poem-line-interpretation {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-secondary);
+    letter-spacing: 0.3px;
+    font-family: "Noto Serif SC", "Source Han Serif SC", "STSong", "SimSun", serif;
+    font-weight: 400;
 }
 
 .interpretation-item {
