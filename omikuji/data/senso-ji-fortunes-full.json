@@ -19,7 +19,7 @@
   "fortunes": [
     {
       "id": 1,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/1_0.jpg",
       "imageBack": "senso-ji-omikuji-main/1_1.jpg",
       "poem": {
@@ -43,7 +43,7 @@
     },
     {
       "id": 2,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/2_0.jpg",
       "imageBack": "senso-ji-omikuji-main/2_1.jpg",
       "poem": {
@@ -67,7 +67,7 @@
     },
     {
       "id": 3,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/3_0.jpg",
       "imageBack": "senso-ji-omikuji-main/3_1.jpg",
       "poem": {
@@ -91,7 +91,7 @@
     },
     {
       "id": 4,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/4_0.jpg",
       "imageBack": "senso-ji-omikuji-main/4_1.jpg",
       "poem": {
@@ -115,7 +115,7 @@
     },
     {
       "id": 5,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/5_0.jpg",
       "imageBack": "senso-ji-omikuji-main/5_1.jpg",
       "poem": {
@@ -139,7 +139,7 @@
     },
     {
       "id": 6,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/6_0.jpg",
       "imageBack": "senso-ji-omikuji-main/6_1.jpg",
       "poem": {
@@ -163,7 +163,7 @@
     },
     {
       "id": 7,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/7_0.jpg",
       "imageBack": "senso-ji-omikuji-main/7_1.jpg",
       "poem": {
@@ -187,7 +187,7 @@
     },
     {
       "id": 8,
-      "level": "medium",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/8_0.jpg",
       "imageBack": "senso-ji-omikuji-main/8_1.jpg",
       "poem": {
@@ -211,7 +211,7 @@
     },
     {
       "id": 9,
-      "level": "末吉",
+      "level": "半吉",
       "imageFront": "senso-ji-omikuji-main/9_0.jpg",
       "imageBack": "senso-ji-omikuji-main/9_1.jpg",
       "poem": {
@@ -235,7 +235,7 @@
     },
     {
       "id": 10,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/10_0.jpg",
       "imageBack": "senso-ji-omikuji-main/10_1.jpg",
       "poem": {
@@ -259,7 +259,7 @@
     },
     {
       "id": 11,
-      "level": "good",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/11_0.jpg",
       "imageBack": "senso-ji-omikuji-main/11_1.jpg",
       "poem": {
@@ -283,7 +283,7 @@
     },
     {
       "id": 12,
-      "level": "small",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/12_0.jpg",
       "imageBack": "senso-ji-omikuji-main/12_1.jpg",
       "poem": {
@@ -307,7 +307,7 @@
     },
     {
       "id": 13,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/13_0.jpg",
       "imageBack": "senso-ji-omikuji-main/13_1.jpg",
       "poem": {
@@ -331,7 +331,7 @@
     },
     {
       "id": 14,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/14_0.jpg",
       "imageBack": "senso-ji-omikuji-main/14_1.jpg",
       "poem": {
@@ -355,7 +355,7 @@
     },
     {
       "id": 15,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/15_0.jpg",
       "imageBack": "senso-ji-omikuji-main/15_1.jpg",
       "poem": {
@@ -379,7 +379,7 @@
     },
     {
       "id": 16,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/16_0.jpg",
       "imageBack": "senso-ji-omikuji-main/16_1.jpg",
       "poem": {
@@ -403,7 +403,7 @@
     },
     {
       "id": 17,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/17_0.jpg",
       "imageBack": "senso-ji-omikuji-main/17_1.jpg",
       "poem": {
@@ -427,7 +427,7 @@
     },
     {
       "id": 18,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/18_0.jpg",
       "imageBack": "senso-ji-omikuji-main/18_1.jpg",
       "poem": {
@@ -451,7 +451,7 @@
     },
     {
       "id": 19,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/19_0.jpg",
       "imageBack": "senso-ji-omikuji-main/19_1.jpg",
       "poem": {
@@ -475,7 +475,7 @@
     },
     {
       "id": 20,
-      "level": "excellent",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/20_0.jpg",
       "imageBack": "senso-ji-omikuji-main/20_1.jpg",
       "poem": {
@@ -499,7 +499,7 @@
     },
     {
       "id": 21,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/21_0.jpg",
       "imageBack": "senso-ji-omikuji-main/21_1.jpg",
       "poem": {
@@ -523,7 +523,7 @@
     },
     {
       "id": 22,
-      "level": "末吉",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/22_0.jpg",
       "imageBack": "senso-ji-omikuji-main/22_1.jpg",
       "poem": {
@@ -547,7 +547,7 @@
     },
     {
       "id": 23,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/23_0.jpg",
       "imageBack": "senso-ji-omikuji-main/23_1.jpg",
       "poem": {
@@ -571,7 +571,7 @@
     },
     {
       "id": 24,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/24_0.jpg",
       "imageBack": "senso-ji-omikuji-main/24_1.jpg",
       "poem": {
@@ -595,7 +595,7 @@
     },
     {
       "id": 25,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/25_0.jpg",
       "imageBack": "senso-ji-omikuji-main/25_1.jpg",
       "poem": {
@@ -619,7 +619,7 @@
     },
     {
       "id": 26,
-      "level": "excellent",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/26_0.jpg",
       "imageBack": "senso-ji-omikuji-main/26_1.jpg",
       "poem": {
@@ -643,7 +643,7 @@
     },
     {
       "id": 27,
-      "level": "good",
+      "level": "小吉",
       "imageFront": "senso-ji-omikuji-main/27_0.jpg",
       "imageBack": "senso-ji-omikuji-main/27_1.jpg",
       "poem": {
@@ -667,7 +667,7 @@
     },
     {
       "id": 28,
-      "level": "excellent",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/28_0.jpg",
       "imageBack": "senso-ji-omikuji-main/28_1.jpg",
       "poem": {
@@ -691,7 +691,7 @@
     },
     {
       "id": 29,
-      "level": "worst",
+      "level": "大凶",
       "imageFront": "senso-ji-omikuji-main/29_0.jpg",
       "imageBack": "senso-ji-omikuji-main/29_1.jpg",
       "poem": {
@@ -715,7 +715,7 @@
     },
     {
       "id": 30,
-      "level": "medium",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/30_0.jpg",
       "imageBack": "senso-ji-omikuji-main/30_1.jpg",
       "poem": {
@@ -739,7 +739,7 @@
     },
     {
       "id": 31,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/31_0.jpg",
       "imageBack": "senso-ji-omikuji-main/31_1.jpg",
       "poem": {
@@ -763,7 +763,7 @@
     },
     {
       "id": 32,
-      "level": "excellent",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/32_0.jpg",
       "imageBack": "senso-ji-omikuji-main/32_1.jpg",
       "poem": {
@@ -787,7 +787,7 @@
     },
     {
       "id": 33,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/33_0.jpg",
       "imageBack": "senso-ji-omikuji-main/33_1.jpg",
       "poem": {
@@ -811,7 +811,7 @@
     },
     {
       "id": 34,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/34_0.jpg",
       "imageBack": "senso-ji-omikuji-main/34_1.jpg",
       "poem": {
@@ -835,7 +835,7 @@
     },
     {
       "id": 35,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/35_0.jpg",
       "imageBack": "senso-ji-omikuji-main/35_1.jpg",
       "poem": {
@@ -859,7 +859,7 @@
     },
     {
       "id": 36,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/36_0.jpg",
       "imageBack": "senso-ji-omikuji-main/36_1.jpg",
       "poem": {
@@ -883,7 +883,7 @@
     },
     {
       "id": 37,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/37_0.jpg",
       "imageBack": "senso-ji-omikuji-main/37_1.jpg",
       "poem": {
@@ -907,7 +907,7 @@
     },
     {
       "id": 38,
-      "level": "medium",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/38_0.jpg",
       "imageBack": "senso-ji-omikuji-main/38_1.jpg",
       "poem": {
@@ -931,7 +931,7 @@
     },
     {
       "id": 39,
-      "level": "poor",
+      "level": "末吉",
       "imageFront": "senso-ji-omikuji-main/39_0.jpg",
       "imageBack": "senso-ji-omikuji-main/39_1.jpg",
       "poem": {
@@ -955,7 +955,7 @@
     },
     {
       "id": 40,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/40_0.jpg",
       "imageBack": "senso-ji-omikuji-main/40_1.jpg",
       "poem": {
@@ -979,7 +979,7 @@
     },
     {
       "id": 41,
-      "level": "small",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/41_0.jpg",
       "imageBack": "senso-ji-omikuji-main/41_1.jpg",
       "poem": {
@@ -1003,7 +1003,7 @@
     },
     {
       "id": 42,
-      "level": "good",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/42_0.jpg",
       "imageBack": "senso-ji-omikuji-main/42_1.jpg",
       "poem": {
@@ -1027,7 +1027,7 @@
     },
     {
       "id": 43,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/43_0.jpg",
       "imageBack": "senso-ji-omikuji-main/43_1.jpg",
       "poem": {
@@ -1051,7 +1051,7 @@
     },
     {
       "id": 44,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/44_0.jpg",
       "imageBack": "senso-ji-omikuji-main/44_1.jpg",
       "poem": {
@@ -1075,7 +1075,7 @@
     },
     {
       "id": 45,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/45_0.jpg",
       "imageBack": "senso-ji-omikuji-main/45_1.jpg",
       "poem": {
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 46,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/46_0.jpg",
       "imageBack": "senso-ji-omikuji-main/46_1.jpg",
       "poem": {
@@ -1123,7 +1123,7 @@
     },
     {
       "id": 47,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/47_0.jpg",
       "imageBack": "senso-ji-omikuji-main/47_1.jpg",
       "poem": {
@@ -1147,7 +1147,7 @@
     },
     {
       "id": 48,
-      "level": "good",
+      "level": "半吉",
       "imageFront": "senso-ji-omikuji-main/48_0.jpg",
       "imageBack": "senso-ji-omikuji-main/48_1.jpg",
       "poem": {
@@ -1171,7 +1171,7 @@
     },
     {
       "id": 49,
-      "level": "medium",
+      "level": "小吉",
       "imageFront": "senso-ji-omikuji-main/49_0.jpg",
       "imageBack": "senso-ji-omikuji-main/49_1.jpg",
       "poem": {
@@ -1195,7 +1195,7 @@
     },
     {
       "id": 50,
-      "level": "good",
+      "level": "末吉",
       "imageFront": "senso-ji-omikuji-main/50_0.jpg",
       "imageBack": "senso-ji-omikuji-main/50_1.jpg",
       "poem": {
@@ -1219,7 +1219,7 @@
     },
     {
       "id": 51,
-      "level": "small",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/51_0.jpg",
       "imageBack": "senso-ji-omikuji-main/51_1.jpg",
       "poem": {
@@ -1243,7 +1243,7 @@
     },
     {
       "id": 52,
-      "level": "good",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/52_0.jpg",
       "imageBack": "senso-ji-omikuji-main/52_1.jpg",
       "poem": {
@@ -1267,7 +1267,7 @@
     },
     {
       "id": 53,
-      "level": "末吉",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/53_0.jpg",
       "imageBack": "senso-ji-omikuji-main/53_1.jpg",
       "poem": {
@@ -1291,7 +1291,7 @@
     },
     {
       "id": 54,
-      "level": "excellent",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/54_0.jpg",
       "imageBack": "senso-ji-omikuji-main/54_1.jpg",
       "poem": {
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 55,
-      "level": "good",
+      "level": "半吉",
       "imageFront": "senso-ji-omikuji-main/55_0.jpg",
       "imageBack": "senso-ji-omikuji-main/55_1.jpg",
       "poem": {
@@ -1339,7 +1339,7 @@
     },
     {
       "id": 56,
-      "level": "excellent",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/56_0.jpg",
       "imageBack": "senso-ji-omikuji-main/56_1.jpg",
       "poem": {
@@ -1363,7 +1363,7 @@
     },
     {
       "id": 57,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/57_0.jpg",
       "imageBack": "senso-ji-omikuji-main/57_1.jpg",
       "poem": {
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 58,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/58_0.jpg",
       "imageBack": "senso-ji-omikuji-main/58_1.jpg",
       "poem": {
@@ -1411,7 +1411,7 @@
     },
     {
       "id": 59,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/59_0.jpg",
       "imageBack": "senso-ji-omikuji-main/59_1.jpg",
       "poem": {
@@ -1435,7 +1435,7 @@
     },
     {
       "id": 60,
-      "level": "good",
+      "level": "小吉",
       "imageFront": "senso-ji-omikuji-main/60_0.jpg",
       "imageBack": "senso-ji-omikuji-main/60_1.jpg",
       "poem": {
@@ -1459,7 +1459,7 @@
     },
     {
       "id": 61,
-      "level": "poor",
+      "level": "小吉",
       "imageFront": "senso-ji-omikuji-main/61_0.jpg",
       "imageBack": "senso-ji-omikuji-main/61_1.jpg",
       "poem": {
@@ -1483,7 +1483,7 @@
     },
     {
       "id": 62,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/62_0.jpg",
       "imageBack": "senso-ji-omikuji-main/62_1.jpg",
       "poem": {
@@ -1507,7 +1507,7 @@
     },
     {
       "id": 63,
-      "level": "excellent",
+      "level": "半吉",
       "imageFront": "senso-ji-omikuji-main/63_0.jpg",
       "imageBack": "senso-ji-omikuji-main/63_1.jpg",
       "poem": {
@@ -1531,7 +1531,7 @@
     },
     {
       "id": 64,
-      "level": "good",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/64_0.jpg",
       "imageBack": "senso-ji-omikuji-main/64_1.jpg",
       "poem": {
@@ -1555,7 +1555,7 @@
     },
     {
       "id": 65,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/65_0.jpg",
       "imageBack": "senso-ji-omikuji-main/65_1.jpg",
       "poem": {
@@ -1579,7 +1579,7 @@
     },
     {
       "id": 66,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/66_0.jpg",
       "imageBack": "senso-ji-omikuji-main/66_1.jpg",
       "poem": {
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 67,
-      "level": "medium",
+      "level": "半吉",
       "imageFront": "senso-ji-omikuji-main/67_0.jpg",
       "imageBack": "senso-ji-omikuji-main/67_1.jpg",
       "poem": {
@@ -1627,7 +1627,7 @@
     },
     {
       "id": 68,
-      "level": "good",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/68_0.jpg",
       "imageBack": "senso-ji-omikuji-main/68_1.jpg",
       "poem": {
@@ -1651,7 +1651,7 @@
     },
     {
       "id": 69,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/69_0.jpg",
       "imageBack": "senso-ji-omikuji-main/69_1.jpg",
       "poem": {
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 70,
-      "level": "poor",
+      "level": "末吉",
       "imageFront": "senso-ji-omikuji-main/70_0.jpg",
       "imageBack": "senso-ji-omikuji-main/70_1.jpg",
       "poem": {
@@ -1699,7 +1699,7 @@
     },
     {
       "id": 71,
-      "level": "poor",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/71_0.jpg",
       "imageBack": "senso-ji-omikuji-main/71_1.jpg",
       "poem": {
@@ -1723,7 +1723,7 @@
     },
     {
       "id": 72,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/72_0.jpg",
       "imageBack": "senso-ji-omikuji-main/72_1.jpg",
       "poem": {
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 73,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/73_0.jpg",
       "imageBack": "senso-ji-omikuji-main/73_1.jpg",
       "poem": {
@@ -1771,7 +1771,7 @@
     },
     {
       "id": 74,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/74_0.jpg",
       "imageBack": "senso-ji-omikuji-main/74_1.jpg",
       "poem": {
@@ -1795,7 +1795,7 @@
     },
     {
       "id": 75,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/75_0.jpg",
       "imageBack": "senso-ji-omikuji-main/75_1.jpg",
       "poem": {
@@ -1819,7 +1819,7 @@
     },
     {
       "id": 76,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/76_0.jpg",
       "imageBack": "senso-ji-omikuji-main/76_1.jpg",
       "poem": {
@@ -1843,7 +1843,7 @@
     },
     {
       "id": 77,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/77_0.jpg",
       "imageBack": "senso-ji-omikuji-main/77_1.jpg",
       "poem": {
@@ -1867,7 +1867,7 @@
     },
     {
       "id": 78,
-      "level": "excellent",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/78_0.jpg",
       "imageBack": "senso-ji-omikuji-main/78_1.jpg",
       "poem": {
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 79,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/79_0.jpg",
       "imageBack": "senso-ji-omikuji-main/79_1.jpg",
       "poem": {
@@ -1915,7 +1915,7 @@
     },
     {
       "id": 80,
-      "level": "excellent",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/80_0.jpg",
       "imageBack": "senso-ji-omikuji-main/80_1.jpg",
       "poem": {
@@ -1939,7 +1939,7 @@
     },
     {
       "id": 81,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/81_0.jpg",
       "imageBack": "senso-ji-omikuji-main/81_1.jpg",
       "poem": {
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 82,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/82_0.jpg",
       "imageBack": "senso-ji-omikuji-main/82_1.jpg",
       "poem": {
@@ -1987,7 +1987,7 @@
     },
     {
       "id": 83,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/83_0.jpg",
       "imageBack": "senso-ji-omikuji-main/83_1.jpg",
       "poem": {
@@ -2011,7 +2011,7 @@
     },
     {
       "id": 84,
-      "level": "good",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/84_0.jpg",
       "imageBack": "senso-ji-omikuji-main/84_1.jpg",
       "poem": {
@@ -2035,7 +2035,7 @@
     },
     {
       "id": 85,
-      "level": "small",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/85_0.jpg",
       "imageBack": "senso-ji-omikuji-main/85_1.jpg",
       "poem": {
@@ -2059,7 +2059,7 @@
     },
     {
       "id": 86,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/86_0.jpg",
       "imageBack": "senso-ji-omikuji-main/86_1.jpg",
       "poem": {
@@ -2083,7 +2083,7 @@
     },
     {
       "id": 87,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/87_0.jpg",
       "imageBack": "senso-ji-omikuji-main/87_1.jpg",
       "poem": {
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 88,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/88_0.jpg",
       "imageBack": "senso-ji-omikuji-main/88_1.jpg",
       "poem": {
@@ -2131,7 +2131,7 @@
     },
     {
       "id": 89,
-      "level": "poor",
+      "level": "大凶",
       "imageFront": "senso-ji-omikuji-main/89_0.jpg",
       "imageBack": "senso-ji-omikuji-main/89_1.jpg",
       "poem": {
@@ -2155,7 +2155,7 @@
     },
     {
       "id": 90,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/90_0.jpg",
       "imageBack": "senso-ji-omikuji-main/90_1.jpg",
       "poem": {
@@ -2179,7 +2179,7 @@
     },
     {
       "id": 91,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/91_0.jpg",
       "imageBack": "senso-ji-omikuji-main/91_1.jpg",
       "poem": {
@@ -2203,7 +2203,7 @@
     },
     {
       "id": 92,
-      "level": "poor",
+      "level": "大凶",
       "imageFront": "senso-ji-omikuji-main/92_0.jpg",
       "imageBack": "senso-ji-omikuji-main/92_1.jpg",
       "poem": {
@@ -2227,7 +2227,7 @@
     },
     {
       "id": 93,
-      "level": "worst",
+      "level": "大凶",
       "imageFront": "senso-ji-omikuji-main/93_0.jpg",
       "imageBack": "senso-ji-omikuji-main/93_1.jpg",
       "poem": {
@@ -2251,7 +2251,7 @@
     },
     {
       "id": 94,
-      "level": "excellent",
+      "level": "大凶",
       "imageFront": "senso-ji-omikuji-main/94_0.jpg",
       "imageBack": "senso-ji-omikuji-main/94_1.jpg",
       "poem": {
@@ -2275,7 +2275,7 @@
     },
     {
       "id": 95,
-      "level": "worst",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/95_0.jpg",
       "imageBack": "senso-ji-omikuji-main/95_1.jpg",
       "poem": {
@@ -2299,7 +2299,7 @@
     },
     {
       "id": 96,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/96_0.jpg",
       "imageBack": "senso-ji-omikuji-main/96_1.jpg",
       "poem": {
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 97,
-      "level": "worst",
+      "level": "大凶",
       "imageFront": "senso-ji-omikuji-main/97_0.jpg",
       "imageBack": "senso-ji-omikuji-main/97_1.jpg",
       "poem": {
@@ -2347,7 +2347,7 @@
     },
     {
       "id": 98,
-      "level": "poor",
+      "level": "凶",
       "imageFront": "senso-ji-omikuji-main/98_0.jpg",
       "imageBack": "senso-ji-omikuji-main/98_1.jpg",
       "poem": {
@@ -2371,7 +2371,7 @@
     },
     {
       "id": 99,
-      "level": "worst",
+      "level": "吉",
       "imageFront": "senso-ji-omikuji-main/99_0.jpg",
       "imageBack": "senso-ji-omikuji-main/99_1.jpg",
       "poem": {
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 100,
-      "level": "worst",
+      "level": "大吉",
       "imageFront": "senso-ji-omikuji-main/100_0.jpg",
       "imageBack": "senso-ji-omikuji-main/100_1.jpg",
       "poem": {
