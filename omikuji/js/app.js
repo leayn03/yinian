@@ -38,6 +38,10 @@ createApp({
                 type: 'info'
             },
 
+            // 查询功能
+            searchNumber: '',
+            quickNumbers: [1, 7, 18, 33, 66, 88, 99, 100],
+
             // 设备检测
             isMobile: /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
         };
@@ -303,6 +307,11 @@ createApp({
             this.goToPage('history');
         },
 
+        goToSearch() {
+            this.searchNumber = '';
+            this.goToPage('search');
+        },
+
         drawAgain() {
             this.userWish = '';
             this.currentFortune = null;
@@ -337,6 +346,58 @@ createApp({
             this.history = [];
             localStorage.removeItem('fortuneHistory');
             this.showToast('已清空历史记录');
+        },
+
+        // ==================== 签文查询 ====================
+
+        searchFortune() {
+            // 验证输入
+            if (!this.searchNumber || this.searchNumber === '') {
+                this.showToast('请输入签文号', 'error');
+                return;
+            }
+
+            const num = parseInt(this.searchNumber);
+
+            if (isNaN(num) || num < 1 || num > 100) {
+                this.showToast('请输入 1-100 之间的数字', 'error');
+                return;
+            }
+
+            // 查找对应签文
+            const fortune = this.allFortunes.find(f => f.id === num);
+
+            if (!fortune) {
+                this.showToast('未找到该签文', 'error');
+                return;
+            }
+
+            // 创建查询记录（添加时间戳和格式化时间）
+            const queryFortune = {
+                ...fortune,
+                timestamp: new Date().toISOString(),
+                formattedTime: this.formatTime(new Date()),
+                isQueried: true  // 标记为查询得到的签文
+            };
+
+            this.currentFortune = queryFortune;
+
+            // 保存到历史记录
+            this.saveToHistory(queryFortune);
+
+            // 跳转到签文详解页
+            this.goToPage('fortune');
+
+            console.log(`🔍 查询第 ${num} 签 - ${fortune.level}`);
+        },
+
+        clearSearch() {
+            this.searchNumber = '';
+        },
+
+        selectQuickNumber(num) {
+            this.searchNumber = num;
+            this.searchFortune();
         },
 
         // ==================== 设置管理 ====================

@@ -64,7 +64,10 @@
                         请点击抽签
                     </button>
                 </div>
-                <button class="history-link" @click="goToHistory">查看历史记录</button>
+                <div class="shake-footer">
+                    <button class="footer-link" @click="goToSearch">查询签文</button>
+                    <button class="footer-link" @click="goToHistory">查看历史记录</button>
+                </div>
             </div>
         </transition>
 
@@ -198,6 +201,51 @@
                 <button v-if="history.length > 0" class="text-button clear-btn" @click="confirmClearHistory">
                     清空所有记录
                 </button>
+            </div>
+        </transition>
+
+        <!-- 查询签文页 -->
+        <transition name="slide">
+            <div v-if="currentPage === 'search'" class="page search-page">
+                <div class="page-header">
+                    <button class="back-btn" @click="goBack">←</button>
+                    <h2 class="page-title">查询签文</h2>
+                </div>
+
+                <div class="search-content">
+                    <div class="search-input-section">
+                        <p class="search-hint">请输入浅草寺签文号</p>
+                        <input
+                            type="number"
+                            v-model.number="searchNumber"
+                            class="search-input"
+                            placeholder="1 - 100"
+                            min="1"
+                            max="100"
+                            @keyup.enter="searchFortune"
+                        >
+                        <p class="search-range-hint">签文范围：1-100</p>
+                    </div>
+
+                    <div class="search-buttons">
+                        <button class="secondary-button" @click="clearSearch">清空</button>
+                        <button class="primary-button" @click="searchFortune">查询</button>
+                    </div>
+
+                    <div class="quick-select-section">
+                        <p class="section-label">常见签号</p>
+                        <div class="quick-numbers">
+                            <button
+                                v-for="num in quickNumbers"
+                                :key="num"
+                                class="quick-number-btn"
+                                @click="selectQuickNumber(num)"
+                            >
+                                {{ num }}
+                            </button>
+                        </div>
+                    </div>
+                </div>
             </div>
         </transition>
 

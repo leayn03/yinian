@@ -282,18 +282,24 @@ body {
     color: var(--color-card);
 }
 
-.history-link {
+.shake-footer {
     position: absolute;
     bottom: var(--spacing-lg);
+    display: flex;
+    gap: var(--spacing-md);
+}
+
+.footer-link {
     border: none;
     background: none;
     color: var(--color-text-secondary);
     font-size: 14px;
     cursor: pointer;
     transition: color 0.2s;
+    padding: 8px 12px;
 }
 
-.history-link:active {
+.footer-link:active {
     color: var(--color-accent);
 }
 
@@ -798,6 +804,134 @@ input:checked + .slider:before {
 
 .toast.error {
     background-color: #d9534f;
+}
+
+/* ==================== 查询页面 ==================== */
+
+.search-page {
+    padding: 0;
+}
+
+.search-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: var(--spacing-lg);
+    overflow-y: auto;
+}
+
+.search-input-section {
+    margin-top: var(--spacing-xl);
+    text-align: center;
+}
+
+.search-hint {
+    font-size: 16px;
+    color: var(--color-text-primary);
+    margin-bottom: var(--spacing-md);
+    letter-spacing: 1px;
+}
+
+.search-input {
+    width: 100%;
+    max-width: 200px;
+    height: 64px;
+    padding: 0;
+    border: 2px solid var(--color-divider);
+    border-radius: var(--radius-md);
+    background-color: var(--color-card);
+    font-size: 32px;
+    font-weight: 500;
+    text-align: center;
+    color: var(--color-text-primary);
+    transition: border-color 0.2s;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--color-accent);
+}
+
+.search-input::placeholder {
+    color: var(--color-text-secondary);
+    opacity: 0.5;
+}
+
+/* 移除数字输入框的上下箭头 */
+.search-input::-webkit-outer-spin-button,
+.search-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.search-input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.search-range-hint {
+    margin-top: var(--spacing-sm);
+    font-size: 13px;
+    color: var(--color-text-secondary);
+}
+
+.search-buttons {
+    display: flex;
+    gap: var(--spacing-sm);
+    margin-top: var(--spacing-lg);
+}
+
+.secondary-button {
+    flex: 1;
+    height: 48px;
+    border: 1px solid var(--color-divider);
+    border-radius: var(--radius-md);
+    background-color: var(--color-card);
+    color: var(--color-text-primary);
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.secondary-button:active {
+    transform: scale(0.95);
+    background-color: var(--color-background);
+}
+
+.quick-select-section {
+    margin-top: var(--spacing-xl);
+}
+
+.section-label {
+    font-size: 14px;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-md);
+    letter-spacing: 1px;
+}
+
+.quick-numbers {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--spacing-sm);
+}
+
+.quick-number-btn {
+    height: 48px;
+    border: 1px solid var(--color-divider);
+    border-radius: var(--radius-sm);
+    background-color: var(--color-card);
+    color: var(--color-text-primary);
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.quick-number-btn:active {
+    transform: scale(0.95);
+    background-color: var(--color-accent);
+    color: var(--color-card);
+    border-color: var(--color-accent);
 }
 
 /* ==================== 过渡动画 ==================== */
