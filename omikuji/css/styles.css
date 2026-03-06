@@ -104,6 +104,171 @@ body {
     color: var(--color-text-secondary);
 }
 
+/* ==================== 主页 ==================== */
+
+.home-page {
+    justify-content: space-between;
+    padding: var(--spacing-xl) var(--spacing-md);
+}
+
+.home-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: var(--spacing-xl);
+}
+
+.home-header {
+    text-align: center;
+}
+
+.home-title {
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 12px;
+    color: var(--color-text-primary);
+    margin-bottom: var(--spacing-md);
+}
+
+.home-subtitle {
+    font-size: 14px;
+    font-weight: 300;
+    color: var(--color-text-secondary);
+    letter-spacing: 3px;
+}
+
+.home-wish-section {
+    position: relative;
+}
+
+.home-wish-input {
+    width: 100%;
+    padding: var(--spacing-sm);
+    border: 1px solid var(--color-divider);
+    border-radius: var(--radius-md);
+    background-color: var(--color-card);
+    font-family: var(--font-family);
+    font-size: 15px;
+    color: var(--color-text-primary);
+    resize: none;
+    outline: none;
+    transition: border-color 0.3s;
+    line-height: 1.6;
+}
+
+.home-wish-input:focus {
+    border-color: var(--color-accent);
+}
+
+.home-wish-input::placeholder {
+    color: var(--color-text-secondary);
+    opacity: 0.6;
+}
+
+.wish-char-count {
+    text-align: right;
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    margin-top: var(--spacing-xs);
+}
+
+.home-actions {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+}
+
+.action-card {
+    background-color: var(--color-card);
+    border: none;
+    border-radius: var(--radius-md);
+    padding: var(--spacing-md);
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: 0 2px 8px var(--color-shadow);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.action-card:active {
+    transform: scale(0.97);
+    box-shadow: 0 1px 4px var(--color-shadow);
+}
+
+.primary-card {
+    background: linear-gradient(135deg, var(--color-accent), #9DAA8B);
+    color: white;
+    min-height: 80px;
+    gap: 4px;
+}
+
+.secondary-card {
+    flex: 1;
+    min-height: 70px;
+}
+
+.action-row {
+    display: flex;
+    gap: var(--spacing-md);
+}
+
+.card-icon {
+    font-size: 48px;
+    line-height: 1;
+}
+
+.card-icon.small {
+    font-size: 28px;
+}
+
+.card-text {
+    flex: 1;
+}
+
+.card-title {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+.card-title.small {
+    font-size: 14px;
+    margin: 0;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.card-desc {
+    font-size: 12px;
+    opacity: 0.85;
+    letter-spacing: 0.5px;
+}
+
+.primary-card .card-title,
+.primary-card .card-desc {
+    color: white;
+}
+
+.secondary-card .card-title {
+    color: var(--color-text-primary);
+}
+
+.home-footer {
+    text-align: center;
+    padding: var(--spacing-md) 0;
+}
+
+.footer-text {
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    letter-spacing: 1px;
+}
+
 /* ==================== 许愿页 ==================== */
 
 .wish-page {
@@ -359,6 +524,32 @@ body {
     font-weight: 400;
     text-align: center;
     margin-bottom: var(--spacing-md);
+}
+
+/* 签文详情页的信息框（许愿、搜索标记等） */
+.fortune-info-box {
+    background-color: rgba(139, 154, 122, 0.08);
+    border-left: 3px solid var(--color-accent);
+    border-radius: var(--radius-sm);
+    padding: var(--spacing-sm);
+    margin: var(--spacing-sm) 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.fortune-info-box .info-icon {
+    font-size: 20px;
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.fortune-info-box .info-text {
+    flex: 1;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-primary);
+    word-break: break-word;
 }
 
 .poem-section,
@@ -666,13 +857,14 @@ body {
     font-size: 14px;
 }
 
-.card-wish {
+.card-info {
     font-size: 13px;
     color: var(--color-accent);
     margin-bottom: var(--spacing-xs);
     padding: 6px 8px;
     background-color: rgba(139, 154, 122, 0.08);
     border-radius: var(--radius-sm);
+    border-left: 2px solid var(--color-accent);
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;

@@ -22,6 +22,50 @@
             </div>
         </transition>
 
+        <!-- 主页 -->
+        <transition name="fade">
+            <div v-if="currentPage === 'home'" class="page home-page">
+                <div class="home-content">
+                    <div class="home-header">
+                        <h1 class="home-title">一念</h1>
+                        <p class="home-subtitle">轻摇，得一签</p>
+                    </div>
+
+                    <!-- 许愿输入区 -->
+                    <div class="home-wish-section">
+                        <textarea
+                            v-model="userWish"
+                            class="home-wish-input"
+                            placeholder="在此许愿，或直接抽签..."
+                            maxlength="100"
+                            rows="3"
+                        ></textarea>
+                        <div class="wish-char-count">{{ userWish.length }}/100</div>
+                    </div>
+
+                    <div class="home-actions">
+                        <button class="action-card primary-card" @click="startDrawing">
+                            <h3 class="card-title">开始抽签</h3>
+                            <p class="card-desc">轻摇手机，问卦求签</p>
+                        </button>
+
+                        <div class="action-row">
+                            <button class="action-card secondary-card" @click="goToSearch">
+                                <h3 class="card-title small">查询签文</h3>
+                            </button>
+
+                            <button class="action-card secondary-card" @click="goToHistory">
+                                <h3 class="card-title small">历史记录</h3>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="home-footer">
+                    <p class="footer-text">浅草寺百签 · 禅意极简</p>
+                </div>
+            </div>
+        </transition>
+
         <!-- 许愿页 -->
         <transition name="slide">
             <div v-if="currentPage === 'wish'" class="page wish-page">
@@ -46,6 +90,7 @@
         <!-- 摇签页 -->
         <transition name="slide">
             <div v-if="currentPage === 'shake'" class="page shake-page">
+                <button class="close-btn" @click="goBack">×</button>
                 <div class="shake-content">
                     <div class="sign-container" :class="{ shaking: isShaking }">
                         <svg class="sign-icon" viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="2">
@@ -64,10 +109,6 @@
                         请点击抽签
                     </button>
                 </div>
-                <div class="shake-footer">
-                    <button class="footer-link" @click="goToSearch">查询签文</button>
-                    <button class="footer-link" @click="goToHistory">查看历史记录</button>
-                </div>
             </div>
         </transition>
 
@@ -84,6 +125,18 @@
                     <p class="fortune-level" :style="{ color: getLevelColor(currentFortune.level) }">
                         {{ currentFortune.level }}
                     </p>
+
+                    <!-- 显示搜索标记 -->
+                    <div v-if="currentFortune.isQueried" class="fortune-info-box">
+                        <div class="info-icon">🔍</div>
+                        <p class="info-text">查询签文</p>
+                    </div>
+
+                    <!-- 显示许愿内容 -->
+                    <div v-if="currentFortune.wish" class="fortune-info-box">
+                        <div class="info-icon">🙏</div>
+                        <p class="info-text">{{ currentFortune.wish }}</p>
+                    </div>
 
                     <div class="divider"></div>
 
@@ -192,7 +245,8 @@
                                     {{ item.level }}
                                 </span>
                             </div>
-                            <p v-if="item.wish" class="card-wish">🙏 {{ item.wish }}</p>
+                            <p v-if="item.isQueried" class="card-info">🔍 查询签文</p>
+                            <p v-if="item.wish" class="card-info">🙏 {{ item.wish }}</p>
                             <p class="card-preview">{{ item.shortDescription }}</p>
                             <p class="card-time">{{ item.formattedTime }}</p>
                         </div>

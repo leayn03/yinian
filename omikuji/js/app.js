@@ -95,7 +95,7 @@ createApp({
 
         // 启动页停留 1.5 秒
         setTimeout(() => {
-            this.currentPage = 'wish';
+            this.currentPage = 'home';
         }, 1500);
 
         // 监听设备运动（摇一摇）
@@ -254,12 +254,17 @@ createApp({
 
             if (this.userWish) {
                 fortune.wish = this.userWish;
+                console.log('💭 保存许愿:', this.userWish);
             }
 
             this.currentFortune = fortune;
 
             // 保存到历史
             this.saveToHistory(fortune);
+            console.log('📝 保存到历史，包含 wish:', fortune.wish);
+
+            // 清空许愿内容（已经保存到当前签文中了）
+            this.userWish = '';
 
             // 震动反馈
             this.vibrate('success');
@@ -285,21 +290,28 @@ createApp({
         },
 
         goBack() {
-            if (this.previousPage) {
+            // 根据当前页面决定返回目标
+            if (this.currentPage === 'history' || this.currentPage === 'search') {
+                // 历史记录和查询页面返回主页
+                this.goToPage('home');
+            } else if (this.currentPage === 'fortune') {
+                // 签文详情页返回主页
+                this.goToPage('home');
+            } else if (this.previousPage) {
                 this.currentPage = this.previousPage;
                 this.previousPage = '';
             } else {
-                this.currentPage = 'shake';
+                this.currentPage = 'home';
             }
         },
 
         skipWish() {
             this.userWish = '';
-            this.goToPage('shake');
+            this.goToPage('home');
         },
 
         goToShake() {
-            this.userWish = '';
+            // 不清空 userWish，保留用户输入的许愿内容
             this.goToPage('shake');
         },
 
@@ -315,7 +327,12 @@ createApp({
         drawAgain() {
             this.userWish = '';
             this.currentFortune = null;
-            this.goToPage('wish');
+            this.goToPage('home');
+        },
+
+        startDrawing() {
+            // 从主页直接进入摇签页面
+            this.goToPage('shake');
         },
 
         viewHistoryFortune(fortune) {
