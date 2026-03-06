@@ -46,7 +46,6 @@
                     <div class="home-actions">
                         <button class="action-card primary-card" @click="startDrawing">
                             <h3 class="card-title">开始抽签</h3>
-                            <p class="card-desc">轻摇手机，问卦求签</p>
                         </button>
 
                         <div class="action-row">
@@ -102,7 +101,7 @@
                             <line x1="80" y1="30" x2="80" y2="90" />
                         </svg>
                     </div>
-                    <p class="shake-hint">{{ isShaking ? '抽签中...' : '轻摇手机抽签' }}</p>
+                    <p class="shake-hint">{{ isShaking ? '抽签中...' : '轻摇手机，问卦求签' }}</p>
 
                     <!-- 点击抽签按钮 -->
                     <button class="debug-button" @click="simulateShake">
