@@ -572,12 +572,11 @@ body {
 }
 
 .poem-line-group {
-    margin-bottom: var(--spacing-sm);
+    margin-bottom: var(--spacing-md);
     display: flex;
-    align-items: baseline;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 1em;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
 }
 
 .poem-line {
@@ -587,6 +586,7 @@ body {
     font-family: "Noto Serif SC", "Source Han Serif SC", "STSong", "SimSun", serif;
     font-weight: 500;
     color: var(--color-text-primary);
+    display: block;
 }
 
 .poem-line-interpretation {
@@ -595,6 +595,8 @@ body {
     color: var(--color-text-secondary);
     letter-spacing: 0.3px;
     font-family: "Noto Serif SC", "Source Han Serif SC", "STSong", "SimSun", serif;
+    display: block;
+    text-align: center;
     font-weight: 400;
 }
 
