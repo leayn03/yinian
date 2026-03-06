@@ -192,6 +192,7 @@
                                     {{ item.level }}
                                 </span>
                             </div>
+                            <p v-if="item.wish" class="card-wish">🙏 {{ item.wish }}</p>
                             <p class="card-preview">{{ item.shortDescription }}</p>
                             <p class="card-time">{{ item.formattedTime }}</p>
                         </div>

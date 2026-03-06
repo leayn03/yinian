@@ -666,6 +666,18 @@ body {
     font-size: 14px;
 }
 
+.card-wish {
+    font-size: 13px;
+    color: var(--color-accent);
+    margin-bottom: var(--spacing-xs);
+    padding: 6px 8px;
+    background-color: rgba(139, 154, 122, 0.08);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
 .card-preview {
     font-size: 14px;
     color: var(--color-text-secondary);
