@@ -109,8 +109,8 @@ createApp({
 
         async loadFortunes() {
             try {
-                // 使用浅草寺签文数据
-                const response = await fetch('data/senso-ji-fortunes-full.json');
+                // 使用浅草寺签文数据（优化版本，释义更符合寺庙解签模式）
+                const response = await fetch('data/senso-ji-fortunes-full-optimized-v1.json');
                 const data = await response.json();
                 this.allFortunes = data.fortunes.map(fortune => {
                     return {
